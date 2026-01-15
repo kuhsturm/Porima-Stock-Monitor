@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🧵 Porima3D Stok Takip</title>
+    <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+    <style>
+        :root {
+            --bg-primary: #0f0f0f;
+            --bg-secondary: #1a1a1a;
+            --bg-card: #242424;
+            --bg-hover: #2d2d2d;
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0a0;
+            --accent: #3b82f6;
+            --success: #22c55e;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --border: #333333;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+        }
+
+        /* Layout */
+        .app-container {
+            display: grid;
+            grid-template-columns: 280px 1fr 350px;
+            min-height: 100vh;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            background: var(--bg-secondary);
+            padding: 24px;
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .logo {
+            margin-bottom: 24px;
+        }
+
+        .logo h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .logo p {
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        .divider {
+            height: 1px;
+            background: var(--border);
+            margin: 16px 0;
+        }
+
+        .section-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        /* Stats Cards */
+        .stats-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            padding: 14px 16px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .stat-card.success {
+            border-left: 4px solid var(--success);
+        }
+
+        .stat-card.danger {
+            border-left: 4px solid var(--danger);
+        }
+
+        .stat-card.info {
+            border-left: 4px solid var(--accent);
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        .stat-label {
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        /* Controls */
+        .control-group {
+            margin-bottom: 16px;
+        }
+
+        .control-group label {
+            display: block;
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+
+        select,
+        input {
+            width: 100%;
+            padding: 12px 14px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        select:focus,
+        input:focus {
+            border-color: var(--accent);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 14px;
+            border: none;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2563eb;
+            transform: translateY(-1px);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: #16a34a;
+        }
+
+        .btn-danger {
+            background: var(--danger);
+            color: white;
+        }
+
+        .btn-danger:hover {
+            background: #dc2626;
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        /* Switch */
+        .switch-group {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 0;
+        }
+
+        .switch {
+            width: 44px;
+            height: 24px;
+            background: var(--bg-card);
+            border-radius: 12px;
+            position: relative;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .switch.active {
+            background: var(--success);
+        }
+
+        .switch::after {
+            content: '';
+            position: absolute;
+            width: 18px;
+            height: 18px;
+            background: white;
+            border-radius: 50%;
+            top: 3px;
+            left: 3px;
+            transition: left 0.2s;
+        }
+
+        .switch.active::after {
+            left: 23px;
+        }
+
+        /* Main Content */
+        .main-content {
+            padding: 24px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Topbar */
+        .topbar {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+
+        .search-box {
+            flex: 1;
+            max-width: 400px;
+            position: relative;
+        }
+
+        .search-box input {
+            padding-left: 44px;
+        }
+
+        .search-box::before {
+            content: '🔍';
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .filter-tabs {
+            display: flex;
+            background: var(--bg-card);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .filter-tab {
+            padding: 10px 20px;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+            background: transparent;
+            color: var(--text-secondary);
+        }
+
+        .filter-tab.active {
+            background: var(--accent);
+            color: white;
+        }
+
+        .filter-tab:hover:not(.active) {
+            background: var(--bg-hover);
+        }
+
+        .last-update {
+            margin-left: auto;
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        /* Product List */
+        .product-list {
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding-right: 8px;
+        }
+
+        .product-list::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .product-list::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .product-list::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 3px;
+        }
+
+        .product-card {
+            background: var(--bg-card);
+            border-radius: 10px;
+            padding: 14px 16px;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            transition: all 0.15s;
+            border-left: 4px solid transparent;
+        }
+
+        .product-card:hover {
+            background: var(--bg-hover);
+            transform: translateX(4px);
+        }
+
+        .product-card.in-stock {
+            border-left-color: var(--success);
+        }
+
+        .product-card.out-of-stock {
+            border-left-color: var(--danger);
+        }
+
+        .product-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .product-name {
+            font-weight: 600;
+            font-size: 14px;
+            margin-bottom: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .product-variant {
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        .product-price {
+            font-weight: 600;
+            font-size: 14px;
+            color: var(--accent);
+            margin-right: 12px;
+        }
+
+        .product-badge {
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        .badge-success {
+            background: rgba(34, 197, 94, 0.15);
+            color: var(--success);
+        }
+
+        .badge-danger {
+            background: rgba(239, 68, 68, 0.15);
+            color: var(--danger);
+        }
+
+        /* Change Log Panel */
+        .change-panel {
+            background: var(--bg-secondary);
+            border-left: 1px solid var(--border);
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .panel-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 16px;
+        }
+
+        .panel-header h2 {
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        .btn-small {
+            padding: 6px 12px;
+            font-size: 12px;
+            background: var(--bg-card);
+            border: none;
+            border-radius: 6px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-small:hover {
+            background: var(--bg-hover);
+            color: var(--text-primary);
+        }
+
+        .change-list {
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .change-card {
+            padding: 12px 14px;
+            border-radius: 8px;
+            border-left: 3px solid;
+        }
+
+        .change-card.in {
+            background: rgba(34, 197, 94, 0.1);
+            border-left-color: var(--success);
+        }
+
+        .change-card.out {
+            background: rgba(239, 68, 68, 0.1);
+            border-left-color: var(--danger);
+        }
+
+        .change-card.price_up {
+            background: rgba(239, 68, 68, 0.1);
+            border-left-color: #dc2626;
+        }
+
+        .change-card.price_down {
+            background: rgba(34, 197, 94, 0.1);
+            border-left-color: #22c55e;
+        }
+
+        .change-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 6px;
+        }
+
+        .change-icon {
+            font-size: 14px;
+        }
+
+        .change-status {
+            font-size: 11px;
+            font-weight: 600;
+        }
+
+        .change-status.in {
+            color: var(--success);
+        }
+
+        .change-status.out {
+            color: var(--danger);
+        }
+
+        .change-time {
+            margin-left: auto;
+            font-size: 11px;
+            color: var(--text-secondary);
+        }
+
+        .change-product {
+            font-size: 13px;
+            font-weight: 500;
+            margin-bottom: 2px;
+        }
+
+        .change-variant {
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-secondary);
+        }
+
+        .empty-state p {
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        /* Status Bar */
+        .status-bar {
+            background: var(--bg-card);
+            padding: 8px 16px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 12px;
+            border-top: 1px solid var(--border);
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--success);
+        }
+
+        .status-dot.monitoring {
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.4;
+            }
+        }
+
+        /* Loading */
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 60px;
+            color: var(--text-secondary);
+        }
+
+        .spinner {
+            width: 32px;
+            height: 32px;
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-right: 12px;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Footer */
+        .sidebar-footer {
+            margin-top: auto;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+            font-size: 12px;
+            color: var(--text-secondary);
+            text-align: center;
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .app-container {
+                grid-template-columns: 240px 1fr 300px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <h1>🧵 Porima3D</h1>
+                <p>Filament Stok Takip</p>
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="section-title">📊 İstatistikler</div>
+            <div class="stats-container">
+                <div class="stat-card success">
+                    <div>
+                        <div class="stat-value" id="stat-in-stock">--</div>
+                        <div class="stat-label">Stokta</div>
+                    </div>
+                </div>
+                <div class="stat-card danger">
+                    <div>
+                        <div class="stat-value" id="stat-out-stock">--</div>
+                        <div class="stat-label">Stoksuz</div>
+                    </div>
+                </div>
+                <div class="stat-card info">
+                    <div>
+                        <div class="stat-value" id="stat-total">--</div>
+                        <div class="stat-label">Toplam</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="section-title">⚙️ Kontroller</div>
+
+            <div class="control-group">
+                <label>Kontrol Aralığı</label>
+                <select id="interval-select">
+                    <option value="60">1 dakika</option>
+                    <option value="120">2 dakika</option>
+                    <option value="300" selected>5 dakika</option>
+                    <option value="600">10 dakika</option>
+                    <option value="1800">30 dakika</option>
+                </select>
+            </div>
+
+            <div class="btn-group">
+                <button class="btn btn-primary" id="refresh-btn" onclick="refreshData()">
+                    🔄 Şimdi Kontrol Et
+                </button>
+                <button class="btn btn-success" id="monitor-btn" onclick="toggleMonitoring()">
+                    ▶️ Otomatik Takip Başlat
+                </button>
+                <button class="btn" style="background: var(--warning); color: #000;" onclick="testChange()">
+                    🧪 Test (Simülasyon)
+                </button>
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="section-title">🔔 Bildirimler</div>
+
+            <div class="switch-group">
+                <span>Sesli Uyarı</span>
+                <div class="switch active" id="sound-switch" onclick="toggleSwitch(this)"></div>
+            </div>
+
+            <div class="switch-group">
+                <span>Tarayıcı Bildirimi</span>
+                <div class="switch" id="notif-switch" onclick="toggleSwitch(this); requestNotificationPermission()">
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                v2.0 Web • porima3d.com
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="topbar">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Ürün ara..." oninput="filterProducts()">
+                </div>
+
+                <div class="filter-tabs">
+                    <button class="filter-tab active" data-filter="all" onclick="setFilter('all', this)">Tümü</button>
+                    <button class="filter-tab" data-filter="in" onclick="setFilter('in', this)">Stokta</button>
+                    <button class="filter-tab" data-filter="out" onclick="setFilter('out', this)">Stoksuz</button>
+                </div>
+
+                <div class="last-update">
+                    Son güncelleme: <span id="last-update-time">--</span>
+                </div>
+            </div>
+
+            <div class="product-list" id="product-list">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    Ürünler yükleniyor...
+                </div>
+            </div>
+
+            <div class="status-bar">
+                <div class="status-dot" id="status-dot"></div>
+                <span id="status-text">Hazır</span>
+                <span id="monitor-status" style="margin-left: auto;"></span>
+            </div>
+        </main>
+
+        <!-- Change Log Panel -->
+        <aside class="change-panel">
+            <div class="panel-header">
+                <h2>📋 Değişiklik Geçmişi</h2>
+                <button class="btn-small" onclick="clearLog()">Temizle</button>
+            </div>
+
+            <div class="change-list" id="change-list">
+                <div class="empty-state">
+                    <p>Henüz değişiklik yok<br><br>Stok durumu değiştiğinde<br>burada görünecek</p>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <script>
+        // Socket.IO bağlantısı
+        const socket = io();
+
+        // State
+        let allProducts = [];
+        let changeLog = [];
+        let currentFilter = 'all';
+        let isMonitoring = false;
+
+        // Socket events
+        socket.on('connect', () => {
+            console.log('Connected to server');
+            loadInitialData();
+        });
+
+        socket.on('stock_update', (data) => {
+            updateUI(data);
+
+            // Yeni değişiklikler için bildirim
+            if (data.changes && data.changes.length > 0) {
+                data.changes.forEach(change => {
+                    if (change.type === 'in') {
+                        showNotification(change);
+                        playSound();
+                    }
+                });
+            }
+        });
+
+        socket.on('monitoring_status', (data) => {
+            isMonitoring = data.active;
+            updateMonitorButton();
+        });
+
+        socket.on('log_cleared', () => {
+            changeLog = [];
+            renderChangeLog();
+        });
+
+        // Test sonucu
+        socket.on('test_change_result', (data) => {
+            console.log('Test change:', data);
+            changeLog.unshift(data.change);
+            renderChangeLog();
+
+            // Test bildirimi
+            if (data.change.type === 'in') {
+                playSound();
+                showNotification(data.change);
+            }
+
+            // Alert göster
+            setStatus(data.message, true);
+        });
+
+        // Load initial data
+        async function loadInitialData() {
+            setStatus('Veriler alınıyor...', false);
+
+            try {
+                const response = await fetch('/api/stock');
+                const data = await response.json();
+
+                allProducts = data.stock_data;
+                changeLog = data.change_log || [];
+
+                updateStats(data.stats);
+                renderProducts();
+                renderChangeLog();
+                document.getElementById('last-update-time').textContent = data.time;
+                setStatus('Hazır', true);
+
+            } catch (error) {
+                console.error('Error loading data:', error);
+                setStatus('Hata!', false);
+            }
+        }
+
+        // Refresh data
+        async function refreshData() {
+            const btn = document.getElementById('refresh-btn');
+            btn.disabled = true;
+            btn.innerHTML = '⏳ Yükleniyor...';
+            setStatus('Veriler alınıyor...', false);
+
+            try {
+                const response = await fetch('/api/refresh');
+                const data = await response.json();
+
+                updateUI(data);
+
+                // Yeni değişiklikler
+                if (data.changes && data.changes.length > 0) {
+                    data.changes.forEach(change => {
+                        if (change.type === 'in') {
+                            showNotification(change);
+                            playSound();
+                        }
+                    });
+                }
+
+            } catch (error) {
+                console.error('Error refreshing:', error);
+                setStatus('Hata!', false);
+            }
+
+            btn.disabled = false;
+            btn.innerHTML = '🔄 Şimdi Kontrol Et';
+        }
+
+        // Update UI
+        function updateUI(data) {
+            allProducts = data.stock_data;
+            if (data.change_log) changeLog = data.change_log;
+
+            updateStats(data.stats);
+            renderProducts();
+            renderChangeLog();
+            document.getElementById('last-update-time').textContent = data.time;
+            setStatus('Veriler güncellendi', true);
+        }
+
+        // Update stats
+        function updateStats(stats) {
+            document.getElementById('stat-in-stock').textContent = stats.in_stock;
+            document.getElementById('stat-out-stock').textContent = stats.out_stock;
+            document.getElementById('stat-total').textContent = stats.total;
+        }
+
+        // Render products
+        function renderProducts() {
+            const container = document.getElementById('product-list');
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+
+            let filtered = allProducts.filter(p => {
+                // Search filter
+                if (searchTerm) {
+                    const match = p.product.toLowerCase().includes(searchTerm) ||
+                        p.variant.toLowerCase().includes(searchTerm);
+                    if (!match) return false;
+                }
+
+                // Stock filter
+                if (currentFilter === 'in' && !p.available) return false;
+                if (currentFilter === 'out' && p.available) return false;
+
+                return true;
+            });
+
+            // Limit to 300 for performance
+            filtered = filtered.slice(0, 300);
+
+            if (filtered.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>Sonuç bulunamadı</p></div>';
+                return;
+            }
+
+            container.innerHTML = filtered.map(p => `
+                <div class="product-card ${p.available ? 'in-stock' : 'out-of-stock'}">
+                    <div class="product-info">
+                        <div class="product-name">${escapeHtml(p.product)}</div>
+                        <div class="product-variant">${escapeHtml(p.variant)}</div>
+                    </div>
+                    <div class="product-price">${p.price.toFixed(2)} TL</div>
+                    <span class="product-badge ${p.available ? 'badge-success' : 'badge-danger'}">
+                        ${p.available ? 'Stokta' : 'Stoksuz'}
+                    </span>
+                </div>
+            `).join('');
+        }
+
+        // Render change log
+        function renderChangeLog() {
+            const container = document.getElementById('change-list');
+
+            if (changeLog.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>Henüz değişiklik yok<br><br>Stok durumu değiştiğinde<br>burada görünecek</p></div>';
+                return;
+            }
+
+            container.innerHTML = changeLog.map(c => {
+                // İkon ve durum metni
+                let icon, statusText, statusClass;
+                if (c.type === 'in') {
+                    icon = '✅';
+                    statusText = 'Stoğa Girdi';
+                    statusClass = 'in';
+                } else if (c.type === 'out') {
+                    icon = '❌';
+                    statusText = 'Stoktan Çıktı';
+                    statusClass = 'out';
+                } else if (c.type === 'price_up') {
+                    icon = '📈';
+                    statusText = 'ZAM';
+                    statusClass = 'price_up';
+                } else if (c.type === 'price_down') {
+                    icon = '📉';
+                    statusText = 'İNDİRİM';
+                    statusClass = 'price_down';
+                }
+
+                // Fiyat bilgisi
+                let priceInfo = '';
+                if (c.type === 'price_up' || c.type === 'price_down') {
+                    const sign = c.type === 'price_up' ? '+' : '-';
+                    const color = c.type === 'price_up' ? '#ef4444' : '#22c55e';
+                    priceInfo = `
+                        <div style="margin-top: 4px; font-size: 12px; color: ${color}; font-weight: 600;">
+                            ${c.old_price?.toFixed(2) || '?'} TL → ${c.price?.toFixed(2) || '?'} TL 
+                            (${sign}${c.price_change?.toFixed(2) || '?'} TL / ${c.price_change_percent?.toFixed(1) || '?'}%)
+                        </div>
+                    `;
+                }
+
+                return `
+                    <div class="change-card ${c.type}">
+                        <div class="change-header">
+                            <span class="change-icon">${icon}</span>
+                            <span class="change-status ${statusClass}" style="color: ${c.type === 'price_up' ? '#ef4444' : c.type === 'price_down' ? '#22c55e' : ''}">${statusText}</span>
+                            <span class="change-time">${c.time}</span>
+                        </div>
+                        <div class="change-product">${escapeHtml(c.product)}</div>
+                        <div class="change-variant">${escapeHtml(c.variant)}</div>
+                        ${priceInfo}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Filter products
+        function filterProducts() {
+            renderProducts();
+        }
+
+        // Set filter
+        function setFilter(filter, btn) {
+            currentFilter = filter;
+            document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+            btn.classList.add('active');
+            renderProducts();
+        }
+
+        // Toggle monitoring
+        function toggleMonitoring() {
+            const interval = parseInt(document.getElementById('interval-select').value);
+
+            if (isMonitoring) {
+                socket.emit('stop_monitoring');
+            } else {
+                socket.emit('start_monitoring', { interval: interval });
+            }
+        }
+
+        // Update monitor button
+        function updateMonitorButton() {
+            const btn = document.getElementById('monitor-btn');
+            const statusDot = document.getElementById('status-dot');
+            const monitorStatus = document.getElementById('monitor-status');
+            const interval = document.getElementById('interval-select').value;
+
+            if (isMonitoring) {
+                btn.className = 'btn btn-danger';
+                btn.innerHTML = '⏹️ Takibi Durdur';
+                statusDot.classList.add('monitoring');
+                monitorStatus.textContent = `🔴 Otomatik takip aktif`;
+            } else {
+                btn.className = 'btn btn-success';
+                btn.innerHTML = '▶️ Otomatik Takip Başlat';
+                statusDot.classList.remove('monitoring');
+                monitorStatus.textContent = '';
+            }
+        }
+
+        // Test change - simulates a stock change for testing
+        function testChange() {
+            socket.emit('test_change');
+            setStatus('🧪 Test değişikliği gönderiliyor...', false);
+        }
+
+        // Clear log
+        function clearLog() {
+            socket.emit('clear_log');
+        }
+
+        // Toggle switch
+        function toggleSwitch(el) {
+            el.classList.toggle('active');
+        }
+
+        // Set status
+        function setStatus(text, success) {
+            document.getElementById('status-text').textContent = text;
+            document.getElementById('status-dot').style.background = success ? 'var(--success)' : 'var(--warning)';
+        }
+
+        // Play sound
+        function playSound() {
+            if (!document.getElementById('sound-switch').classList.contains('active')) return;
+
+            try {
+                const audio = new Audio('data:audio/wav;base64,UklGRnoGAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQoGAACBhYqFbF1fdJivrJBhNjVgodDbsGkpJz+D6/77zIQ8N0R4...');
+                // Simple beep
+                const ctx = new (window.AudioContext || window.webkitAudioContext)();
+                const osc = ctx.createOscillator();
+                const gain = ctx.createGain();
+                osc.connect(gain);
+                gain.connect(ctx.destination);
+                osc.frequency.value = 800;
+                osc.type = 'sine';
+                gain.gain.value = 0.3;
+                osc.start();
+                osc.stop(ctx.currentTime + 0.2);
+            } catch (e) { }
+        }
+
+        // Show notification
+        function showNotification(change) {
+            if (!document.getElementById('notif-switch').classList.contains('active')) return;
+            if (Notification.permission !== 'granted') return;
+
+            new Notification('🎉 Stokta!', {
+                body: `${change.product} - ${change.variant} stoğa girdi!`,
+                icon: '🧵'
+            });
+        }
+
+        // Request notification permission
+        function requestNotificationPermission() {
+            if ('Notification' in window && Notification.permission === 'default') {
+                Notification.requestPermission();
+            }
+        }
+
+        // Escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+    </script>
+</body>
+
+</html>

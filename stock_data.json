@@ -1,0 +1,3512 @@
+{
+  "10213053301083_51758790050139": {
+    "product_id": "10213053301083",
+    "variant_id": "51758790050139",
+    "product": "BIQU Panda Lux RGB - Bambu Lab P1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1692.08,
+    "url": "https://porima3d.com/products/biqu-panda-lux-rgb-bambu-lab-p1-series"
+  },
+  "10213144494427_51759076114779": {
+    "product_id": "10213144494427",
+    "variant_id": "51759076114779",
+    "product": "BIQU Panda Knomi 3D - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 2021.41,
+    "url": "https://porima3d.com/products/biqu-panda-knomi-3d-bambu-lab-a1-series"
+  },
+  "10213160190299_51759118516571": {
+    "product_id": "10213160190299",
+    "variant_id": "51759118516571",
+    "product": "BIQU Panda Knomi 3D Case - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1445.09,
+    "url": "https://porima3d.com/products/biqu-panda-knomi-3d-case-bambu-lab-a1-series"
+  },
+  "10213192597851_51759189655899": {
+    "product_id": "10213192597851",
+    "variant_id": "51759189655899",
+    "product": "BIQU Panda PTFree - Bambu Lab X1/P1/A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 951.1,
+    "url": "https://porima3d.com/products/biqu-panda-ptfree-bambu-lab-x1-p1-a1-series"
+  },
+  "10172382970203_51642401325403": {
+    "product_id": "10172382970203",
+    "variant_id": "51642401325403",
+    "product": "PorimaX Blue Cold Plate Tabla",
+    "variant": "256 mm x 256 mm",
+    "available": false,
+    "price": 1075.84,
+    "url": "https://porima3d.com/products/porimax-blue-cold-plate-tabla"
+  },
+  "10172389720411_51642415087963": {
+    "product_id": "10172389720411",
+    "variant_id": "51642415087963",
+    "product": "PorimaX Black Cold Plate Tabla",
+    "variant": "256 mm x 256 mm",
+    "available": false,
+    "price": 1075.84,
+    "url": "https://porima3d.com/products/porimax-black-cold-plate-tabla"
+  },
+  "10189955236187_51693171081563": {
+    "product_id": "10189955236187",
+    "variant_id": "51693171081563",
+    "product": "Hardened Steel Extruder Gear - Bambu Lab X1/P1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1595.17,
+    "url": "https://porima3d.com/products/hardened-steel-extruder-gear-bambu-lab-x1-p1-series"
+  },
+  "10189943341403_51693149782363": {
+    "product_id": "10189943341403",
+    "variant_id": "51693149782363",
+    "product": "Filament Buffer - Bambu Lab X1/P1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 2830.15,
+    "url": "https://porima3d.com/products/filament-buffer-bambu-lab-x1-p1-series"
+  },
+  "10189495730523_51692113920347": {
+    "product_id": "10189495730523",
+    "variant_id": "51692113920347",
+    "product": "Touch Screen - X1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 0.0,
+    "url": "https://porima3d.com/products/touch-screen-x1-series"
+  },
+  "10189488554331_51692103827803": {
+    "product_id": "10189488554331",
+    "variant_id": "51692103827803",
+    "product": "Screen - Bambu Lab P1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 0.0,
+    "url": "https://porima3d.com/products/screen-bambu-lab-p1-series"
+  },
+  "10189458932059_51692056576347": {
+    "product_id": "10189458932059",
+    "variant_id": "51692056576347",
+    "product": "Touch Screen - Bambu Lab A1 Mini",
+    "variant": "Default Title",
+    "available": false,
+    "price": 0.0,
+    "url": "https://porima3d.com/products/touch-screen-bambu-lab-a1-mini"
+  },
+  "10189458014555_51692055626075": {
+    "product_id": "10189458014555",
+    "variant_id": "51692055626075",
+    "product": "Touch Screen - Bambu Lab A1",
+    "variant": "Default Title",
+    "available": true,
+    "price": 2855.02,
+    "url": "https://porima3d.com/products/touch-screen-bambu-lab-a1"
+  },
+  "10189294403931_51691641241947": {
+    "product_id": "10189294403931",
+    "variant_id": "51691641241947",
+    "product": "Active Support Shaft Assembly - Bambu Lab AMS",
+    "variant": "Default Title",
+    "available": false,
+    "price": 617.49,
+    "url": "https://porima3d.com/products/active-support-shaft-assembly-bambu-lab-ams"
+  },
+  "10189251150171_51691591205211": {
+    "product_id": "10189251150171",
+    "variant_id": "51691591205211",
+    "product": "Hotend Cooling Fan - Bambu Lab P1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1186.1,
+    "url": "https://porima3d.com/products/hotend-cooling-fan-bambu-lab-p1-series"
+  },
+  "10189250691419_51691590713691": {
+    "product_id": "10189250691419",
+    "variant_id": "51691590713691",
+    "product": "Feeding Funnel - Bambu Lab AMS Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 764.14,
+    "url": "https://porima3d.com/products/feeding-funnel-bambu-lab-ams-series"
+  },
+  "10187845566811_51688233632091": {
+    "product_id": "10187845566811",
+    "variant_id": "51688233632091",
+    "product": "Extruder Unit - Bambu Lab X1C Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 3395.32,
+    "url": "https://porima3d.com/products/extruder-unit-bambu-lab-x1c-series"
+  },
+  "10151882228059_51589934907739": {
+    "product_id": "10151882228059",
+    "variant_id": "51589934907739",
+    "product": "Porima PLA Stone Filament",
+    "variant": "Kil / 1.75mm / 1kg",
+    "available": true,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-stone-filament"
+  },
+  "10126873198939_51468133531995": {
+    "product_id": "10126873198939",
+    "variant_id": "51468133531995",
+    "product": "Porima Easy Flex Filament",
+    "variant": "Siyah / 1.75mm / 0.5kg",
+    "available": false,
+    "price": 780.0,
+    "url": "https://porima3d.com/products/porima-easy-flex-filament"
+  },
+  "10065774412123_51226787381595": {
+    "product_id": "10065774412123",
+    "variant_id": "51226787381595",
+    "product": "Porima Eco PLA Premium Filament",
+    "variant": "Granit",
+    "available": true,
+    "price": 594.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-premium-filament"
+  },
+  "10065774412123_51226787414363": {
+    "product_id": "10065774412123",
+    "variant_id": "51226787414363",
+    "product": "Porima Eco PLA Premium Filament",
+    "variant": "Old But Gold",
+    "available": false,
+    "price": 594.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-premium-filament"
+  },
+  "10065774412123_51226787447131": {
+    "product_id": "10065774412123",
+    "variant_id": "51226787447131",
+    "product": "Porima Eco PLA Premium Filament",
+    "variant": "Bakır",
+    "available": false,
+    "price": 594.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-premium-filament"
+  },
+  "10065774412123_51226787479899": {
+    "product_id": "10065774412123",
+    "variant_id": "51226787479899",
+    "product": "Porima Eco PLA Premium Filament",
+    "variant": "Yakut Kırmızı",
+    "available": true,
+    "price": 594.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-premium-filament"
+  },
+  "10065774412123_51226787512667": {
+    "product_id": "10065774412123",
+    "variant_id": "51226787512667",
+    "product": "Porima Eco PLA Premium Filament",
+    "variant": "Violet",
+    "available": false,
+    "price": 594.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-premium-filament"
+  },
+  "10065774412123_51226787545435": {
+    "product_id": "10065774412123",
+    "variant_id": "51226787545435",
+    "product": "Porima Eco PLA Premium Filament",
+    "variant": "Safir Mavi",
+    "available": false,
+    "price": 594.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-premium-filament"
+  },
+  "10065774412123_51226787578203": {
+    "product_id": "10065774412123",
+    "variant_id": "51226787578203",
+    "product": "Porima Eco PLA Premium Filament",
+    "variant": "Zümrüt Yeşil",
+    "available": false,
+    "price": 594.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-premium-filament"
+  },
+  "10075170242907_51260335980891": {
+    "product_id": "10075170242907",
+    "variant_id": "51260335980891",
+    "product": "Anycubic Kobra 3 Combo 3D Yazıcı + Porima Smart PLA Filament 1.75mm 1kg Beyaz",
+    "variant": "Default Title",
+    "available": true,
+    "price": 19999.0,
+    "url": "https://porima3d.com/products/anycubic-kobra-3-combo-3d-yazici-porima-smart-pla-filament-1-75mm-1kg-beyaz"
+  },
+  "10075167359323_51260327919963": {
+    "product_id": "10075167359323",
+    "variant_id": "51260327919963",
+    "product": "Anycubic Kobra S1 3D Yazıcı + Porima Smart PLA Filament 1.75mm 1kg Beyaz",
+    "variant": "Default Title",
+    "available": false,
+    "price": 21999.0,
+    "url": "https://porima3d.com/products/anycubic-kobra-s1-3d-yazici-porima-smart-pla-filament-1-75mm-1kg-beyaz"
+  },
+  "10075164836187_51260321071451": {
+    "product_id": "10075164836187",
+    "variant_id": "51260321071451",
+    "product": "Anycubic Kobra S1 Combo 3D Yazıcı + Porima Smart PLA Filament 1.75mm 1kg Beyaz",
+    "variant": "Default Title",
+    "available": true,
+    "price": 27499.0,
+    "url": "https://porima3d.com/products/anycubic-kobra-s1-combo-3d-yazici-porima-smart-pla-filament-1-75mm-1kg-beyaz"
+  },
+  "10066615730523_51229172662619": {
+    "product_id": "10066615730523",
+    "variant_id": "51229172662619",
+    "product": "Filament Sensor - Bambu Lab P1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1522.28,
+    "url": "https://porima3d.com/products/filament-sensor-bambu-lab-p1-series"
+  },
+  "10066602721627_51229194551643": {
+    "product_id": "10066602721627",
+    "variant_id": "51229194551643",
+    "product": "Bambu Lab Thermistor - Bambu Lab X1 Series",
+    "variant": "3 Adet",
+    "available": false,
+    "price": 1183.52,
+    "url": "https://porima3d.com/products/bambu-lab-thermistor-bambu-lab-x1-series"
+  },
+  "10066587910491_51229190947163": {
+    "product_id": "10066587910491",
+    "variant_id": "51229190947163",
+    "product": "Bambu Lab Ceramic Heater - Bambu Lab X1 Series",
+    "variant": "3 Adet",
+    "available": false,
+    "price": 1240.55,
+    "url": "https://porima3d.com/products/bambu-lab-ceramic-heater-bambu-lab-x1-series"
+  },
+  "10066487542107_51228850880859": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850880859",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.2mm Stainless Steel / Complete Hotend",
+    "available": false,
+    "price": 3460.5,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066487542107_51228850913627": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850913627",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.2mm Stainless Steel / Hotend",
+    "available": false,
+    "price": 1788.57,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066487542107_51228850684251": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850684251",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.4mm Hardened Steel / Complete Hotend",
+    "available": false,
+    "price": 3460.5,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066487542107_51228850717019": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850717019",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.4mm Hardened Steel / Hotend",
+    "available": false,
+    "price": 1788.57,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066487542107_51228850749787": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850749787",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.6mm Hardened Steel / Complete Hotend",
+    "available": false,
+    "price": 3460.5,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066487542107_51228850782555": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850782555",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.6mm Hardened Steel / Hotend",
+    "available": false,
+    "price": 1788.57,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066487542107_51228850815323": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850815323",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.8mm Hardened Steel / Complete Hotend",
+    "available": true,
+    "price": 3460.5,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066487542107_51228850848091": {
+    "product_id": "10066487542107",
+    "variant_id": "51228850848091",
+    "product": "Bambu Hotend - Bambu Lab P1 Series",
+    "variant": "0.8mm Hardened Steel / Hotend",
+    "available": true,
+    "price": 1792.12,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-p1-series"
+  },
+  "10066353291611_51229186228571": {
+    "product_id": "10066353291611",
+    "variant_id": "51229186228571",
+    "product": "Bambu Lab Ceramic Heater & Thermistor - Bambu Lab P1 Series",
+    "variant": "3 Adet",
+    "available": false,
+    "price": 2058.29,
+    "url": "https://porima3d.com/products/bambu-lab-ceramic-heater-thermistor-bambu-lab-p1-series"
+  },
+  "10063088681307_51217503158619": {
+    "product_id": "10063088681307",
+    "variant_id": "51217503158619",
+    "product": "Porima ABS/CF Filament",
+    "variant": "Siyah / 1.75mm / 0.75kg",
+    "available": false,
+    "price": 799.2,
+    "url": "https://porima3d.com/products/porima-abs-cf-filament"
+  },
+  "10063088681307_51217503191387": {
+    "product_id": "10063088681307",
+    "variant_id": "51217503191387",
+    "product": "Porima ABS/CF Filament",
+    "variant": "Siyah / 1.75mm / 1kg",
+    "available": false,
+    "price": 990.0,
+    "url": "https://porima3d.com/products/porima-abs-cf-filament"
+  },
+  "10062997422427_51217377100123": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377100123",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377132891": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377132891",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377165659": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377165659",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Sarı RAL1023 / 1.75mm / 1kg",
+    "available": false,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377198427": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377198427",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Turuncu RAL2009 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377231195": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377231195",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377263963": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377263963",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377296731": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377296731",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Yeşil RAL6029 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377329499": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377329499",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 1kg",
+    "available": false,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377362267": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377362267",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377395035": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377395035",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Kahverengi RAL8007 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10062997422427_51217377427803": {
+    "product_id": "10062997422427",
+    "variant_id": "51217377427803",
+    "product": "Porima Eco ABS Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": true,
+    "price": 528.0,
+    "url": "https://porima3d.com/products/porima-eco-abs-filament"
+  },
+  "10057546924379_51200936870235": {
+    "product_id": "10057546924379",
+    "variant_id": "51200936870235",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51200936903003": {
+    "product_id": "10057546924379",
+    "variant_id": "51200936903003",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Altın / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51201096319323": {
+    "product_id": "10057546924379",
+    "variant_id": "51201096319323",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Gümüş / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51200936968539": {
+    "product_id": "10057546924379",
+    "variant_id": "51200936968539",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Bakır / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51553183564123": {
+    "product_id": "10057546924379",
+    "variant_id": "51553183564123",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Kırmızı / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51553183596891": {
+    "product_id": "10057546924379",
+    "variant_id": "51553183596891",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Fuşya / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51200937001307": {
+    "product_id": "10057546924379",
+    "variant_id": "51200937001307",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Magenta / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51553183629659": {
+    "product_id": "10057546924379",
+    "variant_id": "51553183629659",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Violet / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51553183662427": {
+    "product_id": "10057546924379",
+    "variant_id": "51553183662427",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Turkuaz / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51200937034075": {
+    "product_id": "10057546924379",
+    "variant_id": "51200937034075",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Mavi / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10057546924379_51200937066843": {
+    "product_id": "10057546924379",
+    "variant_id": "51200937066843",
+    "product": "Porima Eco Silk PLA Filament",
+    "variant": "Yeşil / 1.75mm / 1kg",
+    "available": false,
+    "price": 630.0,
+    "url": "https://porima3d.com/products/porima-eco-silk-pla-filament"
+  },
+  "10036231340379_51088146825563": {
+    "product_id": "10036231340379",
+    "variant_id": "51088146825563",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Apollo Yellow / 1kg",
+    "available": true,
+    "price": 586.61,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10036231340379_51088146956635": {
+    "product_id": "10036231340379",
+    "variant_id": "51088146956635",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Helios Orange / 1kg",
+    "available": true,
+    "price": 587.89,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10036231340379_51088146858331": {
+    "product_id": "10036231340379",
+    "variant_id": "51088146858331",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Ares Red / 1kg",
+    "available": true,
+    "price": 589.07,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10036231340379_51088146989403": {
+    "product_id": "10036231340379",
+    "variant_id": "51088146989403",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Nyx Purple / 1kg",
+    "available": true,
+    "price": 587.89,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10036231340379_51088147054939": {
+    "product_id": "10036231340379",
+    "variant_id": "51088147054939",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Zeus Turquoise / 1kg",
+    "available": true,
+    "price": 587.89,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10036231340379_51088147022171": {
+    "product_id": "10036231340379",
+    "variant_id": "51088147022171",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Poseidon Blue / 1kg",
+    "available": true,
+    "price": 587.78,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10036231340379_51088146923867": {
+    "product_id": "10036231340379",
+    "variant_id": "51088146923867",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Hades Blue / 1kg",
+    "available": true,
+    "price": 588.05,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10036231340379_51088146891099": {
+    "product_id": "10036231340379",
+    "variant_id": "51088146891099",
+    "product": "PoResin Transparan Standart Reçine",
+    "variant": "Demeter Green / 1kg",
+    "available": true,
+    "price": 586.61,
+    "url": "https://porima3d.com/products/poresin-transparan-standart-recine"
+  },
+  "10040444354907_51129141559643": {
+    "product_id": "10040444354907",
+    "variant_id": "51129141559643",
+    "product": "Porima PA Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": true,
+    "price": 888.0,
+    "url": "https://porima3d.com/products/porima-pa-filament"
+  },
+  "10040444354907_51129141592411": {
+    "product_id": "10040444354907",
+    "variant_id": "51129141592411",
+    "product": "Porima PA Filament",
+    "variant": "Siyah / 1.75mm / 1kg",
+    "available": true,
+    "price": 888.0,
+    "url": "https://porima3d.com/products/porima-pa-filament"
+  },
+  "10042304495963_51151713435995": {
+    "product_id": "10042304495963",
+    "variant_id": "51151713435995",
+    "product": "Porima Eco Smart PLA Filament",
+    "variant": "Beyaz / 1.75mm / 1kg",
+    "available": false,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-eco-smart-pla-filament"
+  },
+  "10042304495963_51322327957851": {
+    "product_id": "10042304495963",
+    "variant_id": "51322327957851",
+    "product": "Porima Eco Smart PLA Filament",
+    "variant": "Sarı / 1.75mm / 1kg",
+    "available": true,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-eco-smart-pla-filament"
+  },
+  "10042304495963_51322327990619": {
+    "product_id": "10042304495963",
+    "variant_id": "51322327990619",
+    "product": "Porima Eco Smart PLA Filament",
+    "variant": "Kırmızı / 1.75mm / 1kg",
+    "available": false,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-eco-smart-pla-filament"
+  },
+  "10042304495963_51322328023387": {
+    "product_id": "10042304495963",
+    "variant_id": "51322328023387",
+    "product": "Porima Eco Smart PLA Filament",
+    "variant": "Yeşil / 1.75mm / 1kg",
+    "available": false,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-eco-smart-pla-filament"
+  },
+  "10042304495963_51322328056155": {
+    "product_id": "10042304495963",
+    "variant_id": "51322328056155",
+    "product": "Porima Eco Smart PLA Filament",
+    "variant": "Mavi / 1.75mm / 1kg",
+    "available": false,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-eco-smart-pla-filament"
+  },
+  "10042304495963_51322328088923": {
+    "product_id": "10042304495963",
+    "variant_id": "51322328088923",
+    "product": "Porima Eco Smart PLA Filament",
+    "variant": "Gri / 1.75mm / 1kg",
+    "available": false,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-eco-smart-pla-filament"
+  },
+  "10042304495963_51131622981979": {
+    "product_id": "10042304495963",
+    "variant_id": "51131622981979",
+    "product": "Porima Eco Smart PLA Filament",
+    "variant": "Siyah / 1.75mm / 1kg",
+    "available": true,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-eco-smart-pla-filament"
+  },
+  "10036233929051_51151706358107": {
+    "product_id": "10036233929051",
+    "variant_id": "51151706358107",
+    "product": "Porima Smart PLA Filament",
+    "variant": "Beyaz / 1.75mm / 1kg",
+    "available": true,
+    "price": 459.0,
+    "url": "https://porima3d.com/products/porima-smart-pla-filament"
+  },
+  "10036233929051_51184891167067": {
+    "product_id": "10036233929051",
+    "variant_id": "51184891167067",
+    "product": "Porima Smart PLA Filament",
+    "variant": "Sarı / 1.75mm / 1kg",
+    "available": false,
+    "price": 459.0,
+    "url": "https://porima3d.com/products/porima-smart-pla-filament"
+  },
+  "10036233929051_51322218807643": {
+    "product_id": "10036233929051",
+    "variant_id": "51322218807643",
+    "product": "Porima Smart PLA Filament",
+    "variant": "Kırmızı / 1.75mm / 1kg",
+    "available": false,
+    "price": 459.0,
+    "url": "https://porima3d.com/products/porima-smart-pla-filament"
+  },
+  "10036233929051_51184891199835": {
+    "product_id": "10036233929051",
+    "variant_id": "51184891199835",
+    "product": "Porima Smart PLA Filament",
+    "variant": "Yeşil / 1.75mm / 1kg",
+    "available": false,
+    "price": 459.0,
+    "url": "https://porima3d.com/products/porima-smart-pla-filament"
+  },
+  "10036233929051_51184891134299": {
+    "product_id": "10036233929051",
+    "variant_id": "51184891134299",
+    "product": "Porima Smart PLA Filament",
+    "variant": "Mavi / 1.75mm / 1kg",
+    "available": false,
+    "price": 459.0,
+    "url": "https://porima3d.com/products/porima-smart-pla-filament"
+  },
+  "10036233929051_51184891232603": {
+    "product_id": "10036233929051",
+    "variant_id": "51184891232603",
+    "product": "Porima Smart PLA Filament",
+    "variant": "Gri / 1.75mm / 1kg",
+    "available": false,
+    "price": 459.0,
+    "url": "https://porima3d.com/products/porima-smart-pla-filament"
+  },
+  "10036233929051_51129196282203": {
+    "product_id": "10036233929051",
+    "variant_id": "51129196282203",
+    "product": "Porima Smart PLA Filament",
+    "variant": "Siyah / 1.75mm / 1kg",
+    "available": true,
+    "price": 459.0,
+    "url": "https://porima3d.com/products/porima-smart-pla-filament"
+  },
+  "9974564913499_50876496544091": {
+    "product_id": "9974564913499",
+    "variant_id": "50876496544091",
+    "product": "Anycubic XY-Axis Belt - S Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 3080.14,
+    "url": "https://porima3d.com/products/anycubic-xy-axis-belt-s-series"
+  },
+  "10011598225755_51076277535067": {
+    "product_id": "10011598225755",
+    "variant_id": "51076277535067",
+    "product": "Porima Rainbow PLA Star Filament",
+    "variant": "Rainbow / 1.75mm / 1kg",
+    "available": true,
+    "price": 684.0,
+    "url": "https://porima3d.com/products/porima-rainbow-pla-star-filament"
+  },
+  "10011596456283_51076222845275": {
+    "product_id": "10011596456283",
+    "variant_id": "51076222845275",
+    "product": "Porima Rainbow PLA Premium Filament",
+    "variant": "Rainbow / 1.75mm / 1kg",
+    "available": true,
+    "price": 684.0,
+    "url": "https://porima3d.com/products/porima-rainbow-pla-premium-filament"
+  },
+  "10011514175835_51076240605531": {
+    "product_id": "10011514175835",
+    "variant_id": "51076240605531",
+    "product": "Porima Rainbow PLA Silk Filament",
+    "variant": "Rainbow / 1.75mm / 1kg",
+    "available": true,
+    "price": 720.0,
+    "url": "https://porima3d.com/products/porima-rainbow-pla-silk-filament"
+  },
+  "10011508801883_51033196331355": {
+    "product_id": "10011508801883",
+    "variant_id": "51033196331355",
+    "product": "Porima Rainbow PLA Filament",
+    "variant": "Rainbow / 1.75mm / 1kg",
+    "available": true,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-rainbow-pla-filament"
+  },
+  "10011594260827_51012746051931": {
+    "product_id": "10011594260827",
+    "variant_id": "51012746051931",
+    "product": "Porima Rainbow PLA Pastel Filament",
+    "variant": "Rainbow / 1.75mm / 1kg",
+    "available": true,
+    "price": 684.0,
+    "url": "https://porima3d.com/products/porima-rainbow-pla-pastel-filament"
+  },
+  "9996400230747_50960215310683": {
+    "product_id": "9996400230747",
+    "variant_id": "50960215310683",
+    "product": "BIQU Panda Knomi - Bambu Lab Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1628.62,
+    "url": "https://porima3d.com/products/biqu-panda-knomi-bambu-lab-series"
+  },
+  "9996400099675_50960215179611": {
+    "product_id": "9996400099675",
+    "variant_id": "50960215179611",
+    "product": "BIQU Panda Knomi Case - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 610.63,
+    "url": "https://porima3d.com/products/biqu-panda-knomi-case-bambu-lab-a1-series"
+  },
+  "9996399575387_50960213639515": {
+    "product_id": "9996399575387",
+    "variant_id": "50960213639515",
+    "product": "BIQU Panda Edge",
+    "variant": "Default Title",
+    "available": true,
+    "price": 712.68,
+    "url": "https://porima3d.com/products/biqu-panda-edge"
+  },
+  "9996396953947_50960202301787": {
+    "product_id": "9996396953947",
+    "variant_id": "50960202301787",
+    "product": "BIQU Panda PWR",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1933.93,
+    "url": "https://porima3d.com/products/biqu-panda-pwr"
+  },
+  "9996396626267_50960201515355": {
+    "product_id": "9996396626267",
+    "variant_id": "50960201515355",
+    "product": "BIQU Panda Branch - Bambu Lab Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 966.97,
+    "url": "https://porima3d.com/products/biqu-panda-branch-bambu-lab-series"
+  },
+  "9996396167515_50960199352667": {
+    "product_id": "9996396167515",
+    "variant_id": "50960199352667",
+    "product": "BIQU Panda Hub - Bambu Lab P1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 204.61,
+    "url": "https://porima3d.com/products/biqu-panda-hub-bambu-lab-p1-series"
+  },
+  "9996394037595_50977785807195": {
+    "product_id": "9996394037595",
+    "variant_id": "50977785807195",
+    "product": "BIQU Panda Lux - Bambu Lab Series",
+    "variant": "X1/P1",
+    "available": false,
+    "price": 407.37,
+    "url": "https://porima3d.com/products/biqu-panda-lux-bambu-lab-x1-p1-series"
+  },
+  "9996394037595_50977785839963": {
+    "product_id": "9996394037595",
+    "variant_id": "50977785839963",
+    "product": "BIQU Panda Lux - Bambu Lab Series",
+    "variant": "A1",
+    "available": false,
+    "price": 407.37,
+    "url": "https://porima3d.com/products/biqu-panda-lux-bambu-lab-x1-p1-series"
+  },
+  "9996394037595_50977785872731": {
+    "product_id": "9996394037595",
+    "variant_id": "50977785872731",
+    "product": "BIQU Panda Lux - Bambu Lab Series",
+    "variant": "A1 mini",
+    "available": false,
+    "price": 407.37,
+    "url": "https://porima3d.com/products/biqu-panda-lux-bambu-lab-x1-p1-series"
+  },
+  "9996391547227_50960185557339": {
+    "product_id": "9996391547227",
+    "variant_id": "50960185557339",
+    "product": "BIQU Panda Touch Screen V1.1 - Bambu Lab Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 3969.92,
+    "url": "https://porima3d.com/products/biqu-panda-touch-screen-v1-1-bambu-lab-series"
+  },
+  "9974635954523_50876738994523": {
+    "product_id": "9974635954523",
+    "variant_id": "50876738994523",
+    "product": "Cover Plate-Flat - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 979.83,
+    "url": "https://porima3d.com/products/cover-plate-flat-anycubic-kobra-s1-series"
+  },
+  "9974665445723_50876859285851": {
+    "product_id": "9974665445723",
+    "variant_id": "50876859285851",
+    "product": "Front Door-Flat - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1610.18,
+    "url": "https://porima3d.com/products/front-door-flat-anycubic-kobra-s1-series"
+  },
+  "9969277632859_50849031127387": {
+    "product_id": "9969277632859",
+    "variant_id": "50849031127387",
+    "product": "Signal Line - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1330.17,
+    "url": "https://porima3d.com/products/signal-line-anycubic-ace-pro"
+  },
+  "9979460551003_50894529233243": {
+    "product_id": "9979460551003",
+    "variant_id": "50894529233243",
+    "product": "PorimaX Smooth Rainbow Diamond Ball H1H / Smooth Rainbow Windmill H1H Tabla",
+    "variant": "264 mm x 276 mm",
+    "available": true,
+    "price": 923.1,
+    "url": "https://porima3d.com/products/porimax-smooth-rainbow-diamond-ball-h1h-smooth-rainbow-windmill-h1h-tabla"
+  },
+  "9974941090139_50877631299931": {
+    "product_id": "9974941090139",
+    "variant_id": "50877631299931",
+    "product": "Belt - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1155.21,
+    "url": "https://porima3d.com/products/belt-anycubic-ace-pro"
+  },
+  "9974914744667_50877541515611": {
+    "product_id": "9974914744667",
+    "variant_id": "50877541515611",
+    "product": "Buffer Component - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 2310.0,
+    "url": "https://porima3d.com/products/buffer-component-anycubic-ace-pro"
+  },
+  "9974909895003_50877521789275": {
+    "product_id": "9974909895003",
+    "variant_id": "50877521789275",
+    "product": "Motherboard - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 5320.25,
+    "url": "https://porima3d.com/products/motherboard-anycubic-ace-pro"
+  },
+  "9974907994459_50877514776923": {
+    "product_id": "9974907994459",
+    "variant_id": "50877514776923",
+    "product": "Driven Wheel Components - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 3192.06,
+    "url": "https://porima3d.com/products/driven-wheel-components-anycubic-ace-pro"
+  },
+  "9974902227291_50877496852827": {
+    "product_id": "9974902227291",
+    "variant_id": "50877496852827",
+    "product": "Feed Motor - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 3080.14,
+    "url": "https://porima3d.com/products/feed-motor-anycubic-ace-pro"
+  },
+  "9974898164059_50877486334299": {
+    "product_id": "9974898164059",
+    "variant_id": "50877486334299",
+    "product": "Shift Motor - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 3080.14,
+    "url": "https://porima3d.com/products/shift-motor-anycubic-ace-pro"
+  },
+  "9974897082715_50877482500443": {
+    "product_id": "9974897082715",
+    "variant_id": "50877482500443",
+    "product": "Feeding Channel - Anycubic ACE Pro",
+    "variant": "Default Title",
+    "available": true,
+    "price": 798.02,
+    "url": "https://porima3d.com/products/feeding-channel-anycubic-ace-pro"
+  },
+  "9977918947675_50888092451163": {
+    "product_id": "9977918947675",
+    "variant_id": "50888092451163",
+    "product": "ELEGOO Saturn 4 Ultra 12K + Mercury Plus V3.0 + Hediye: 0.5kg ABS Like Reçine",
+    "variant": "Default Title",
+    "available": false,
+    "price": 38128.0,
+    "url": "https://porima3d.com/products/elegoo-saturn-4-ultra-12k-mercury-plus-v3-hediye-0-5kg-abs-like-recine"
+  },
+  "9974669541723_50876871606619": {
+    "product_id": "9974669541723",
+    "variant_id": "50876871606619",
+    "product": "Front Door - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 2659.91,
+    "url": "https://porima3d.com/products/front-door-anycubic-kobra-s1-series"
+  },
+  "9974668329307_50876869542235": {
+    "product_id": "9974668329307",
+    "variant_id": "50876869542235",
+    "product": "Cover Plate - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 2659.91,
+    "url": "https://porima3d.com/products/cover-plate-anycubic-kobra-s1-series"
+  },
+  "9974666821979_50876863545691": {
+    "product_id": "9974666821979",
+    "variant_id": "50876863545691",
+    "product": "Nozzle Wiper - Anycubic Kobra S Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1610.18,
+    "url": "https://porima3d.com/products/nozzle-wiper-anycubic-kobra-s-series"
+  },
+  "9974662136155_50888405123419": {
+    "product_id": "9974662136155",
+    "variant_id": "50888405123419",
+    "product": "Filament Tubes - Anycubic ACE Pro",
+    "variant": "1 Adet",
+    "available": false,
+    "price": 761.0,
+    "url": "https://porima3d.com/products/filament-tubes-anycubic-ace-pro"
+  },
+  "9974662136155_50888405156187": {
+    "product_id": "9974662136155",
+    "variant_id": "50888405156187",
+    "product": "Filament Tubes - Anycubic ACE Pro",
+    "variant": "4 Adet",
+    "available": true,
+    "price": 32632.44,
+    "url": "https://porima3d.com/products/filament-tubes-anycubic-ace-pro"
+  },
+  "9974660399451_50876835397979": {
+    "product_id": "9974660399451",
+    "variant_id": "50876835397979",
+    "product": "Power Supply - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 482.84,
+    "url": "https://porima3d.com/products/power-supply-anycubic-kobra-s1-series"
+  },
+  "9974659645787_50876830089563": {
+    "product_id": "9974659645787",
+    "variant_id": "50876830089563",
+    "product": "Hot Bed Components - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 5320.25,
+    "url": "https://porima3d.com/products/hot-bed-components-anycubic-kobra-s1-series"
+  },
+  "9974654107995_50876802695515": {
+    "product_id": "9974654107995",
+    "variant_id": "50876802695515",
+    "product": "Filament Cutter Detection Board PCBA - Anycubic Kobra S Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 2415.06,
+    "url": "https://porima3d.com/products/filament-cutter-detection-board-pcba-anycubic-kobra-s-series"
+  },
+  "9974651224411_50876780937563": {
+    "product_id": "9974651224411",
+    "variant_id": "50876780937563",
+    "product": "Material Break Detection PCBA - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 770.14,
+    "url": "https://porima3d.com/products/material-break-detection-pcba-anycubic-kobra-s1-series"
+  },
+  "9974649127259_50876769698139": {
+    "product_id": "9974649127259",
+    "variant_id": "50876769698139",
+    "product": "Z Motor - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 4618.71,
+    "url": "https://porima3d.com/products/z-motor-anycubic-kobra-s1-series"
+  },
+  "9974644343131_50876761342299": {
+    "product_id": "9974644343131",
+    "variant_id": "50876761342299",
+    "product": "XY Motor - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 4620.0,
+    "url": "https://porima3d.com/products/xy-motor-anycubic-kobra-s1-series"
+  },
+  "9974642245979_50876758851931": {
+    "product_id": "9974642245979",
+    "variant_id": "50876758851931",
+    "product": "Limit Switch PCBA - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1960.09,
+    "url": "https://porima3d.com/products/limit-switch-pcba-anycubic-kobra-s1-series"
+  },
+  "9974640148827_50876754559323": {
+    "product_id": "9974640148827",
+    "variant_id": "50876754559323",
+    "product": "Host Computer Motherboard PCBA - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1176.23,
+    "url": "https://porima3d.com/products/host-computer-motherboard-pcba-anycubic-kobra-s1-series"
+  },
+  "9974638575963_50876747710811": {
+    "product_id": "9974638575963",
+    "variant_id": "50876747710811",
+    "product": "Return Detection Module - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1653.92,
+    "url": "https://porima3d.com/products/return-detection-module-anycubic-kobra-s1-series"
+  },
+  "9974637035867_50876743450971": {
+    "product_id": "9974637035867",
+    "variant_id": "50876743450971",
+    "product": "Touch Screen Cable - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1568.16,
+    "url": "https://porima3d.com/products/touch-screen-cable-anycubic-kobra-s1-series"
+  },
+  "9974634479963_50876732342619": {
+    "product_id": "9974634479963",
+    "variant_id": "50876732342619",
+    "product": "Replacement Filament Cutter - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 788.14,
+    "url": "https://porima3d.com/products/replacement-filament-cutter-anycubic-kobra-s1-series"
+  },
+  "9974615671131_50876619653467": {
+    "product_id": "9974615671131",
+    "variant_id": "50876619653467",
+    "product": "Auxiliary Cooling Fan - Anycubic",
+    "variant": "Default Title",
+    "available": true,
+    "price": 644.07,
+    "url": "https://porima3d.com/products/auxiliary-cooling-fan-anycubic"
+  },
+  "9974610821467_50876597567835": {
+    "product_id": "9974610821467",
+    "variant_id": "50876597567835",
+    "product": "Hotend Cooling Fan - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 644.07,
+    "url": "https://porima3d.com/products/hotend-cooling-fan-anycubic-kobra-s1-series"
+  },
+  "9974609609051_50876589572443": {
+    "product_id": "9974609609051",
+    "variant_id": "50876589572443",
+    "product": "Model Cooling Fan - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 644.07,
+    "url": "https://porima3d.com/products/model-cooling-fan-anycubic-kobra-s1-series"
+  },
+  "9974575169883_50876527051099": {
+    "product_id": "9974575169883",
+    "variant_id": "50876527051099",
+    "product": "Extruder - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 2093.02,
+    "url": "https://porima3d.com/products/extruder-anycubic-kobra-s1-series"
+  },
+  "9974570811739_50876520989019": {
+    "product_id": "9974570811739",
+    "variant_id": "50876520989019",
+    "product": "Spool Holder - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1610.18,
+    "url": "https://porima3d.com/products/spool-holder-anycubic-kobra-s1-series"
+  },
+  "9974564290907_50876493726043": {
+    "product_id": "9974564290907",
+    "variant_id": "50876493726043",
+    "product": "Print Head PCBA - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 3867.84,
+    "url": "https://porima3d.com/products/print-head-pcba-anycubic-kobra-s1-series"
+  },
+  "9974561833307_50876486123867": {
+    "product_id": "9974561833307",
+    "variant_id": "50876486123867",
+    "product": "Lower Computer Motherboard PCBA - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 5005.07,
+    "url": "https://porima3d.com/products/lower-computer-motherboard-pcba-anycubic-kobra-s1-series"
+  },
+  "9974548627803_50876462661979": {
+    "product_id": "9974548627803",
+    "variant_id": "50876462661979",
+    "product": "Air Filter - Anycubic",
+    "variant": "Default Title",
+    "available": true,
+    "price": 798.02,
+    "url": "https://porima3d.com/products/air-filter-anycubic"
+  },
+  "9974541091163_50876453159259": {
+    "product_id": "9974541091163",
+    "variant_id": "50876453159259",
+    "product": "Touch Screen - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 9625.5,
+    "url": "https://porima3d.com/products/touch-screen-anycubic-kobra-s1-series"
+  },
+  "9974534701403_50876443033947": {
+    "product_id": "9974534701403",
+    "variant_id": "50876443033947",
+    "product": "Light Bar - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 4025.24,
+    "url": "https://porima3d.com/products/light-bar-anycubic-kobra-s1-series"
+  },
+  "9974530867547_50876433826139": {
+    "product_id": "9974530867547",
+    "variant_id": "50876433826139",
+    "product": "Cabinet Filter Cooling Fan - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1063.88,
+    "url": "https://porima3d.com/products/cabinet-filter-cooling-fan-anycubic-kobra-s1-series"
+  },
+  "9974529917275_50876426060123": {
+    "product_id": "9974529917275",
+    "variant_id": "50876426060123",
+    "product": "Print Head Filament Tube - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 798.02,
+    "url": "https://porima3d.com/products/print-head-filament-tube-anycubic-kobra-s1-series"
+  },
+  "9969307517275_50887256932699": {
+    "product_id": "9969307517275",
+    "variant_id": "50887256932699",
+    "product": "Outer Release Forerod Nozzle - Anycubic Kobra S1 Series",
+    "variant": "0.4 mm",
+    "available": false,
+    "price": 1195.0,
+    "url": "https://porima3d.com/products/outer-release-forerod-nozzle-anycubic-kobra-s1-series"
+  },
+  "9969296310619_50849139425627": {
+    "product_id": "9969296310619",
+    "variant_id": "50849139425627",
+    "product": "Camera - Anycubic Kobra S1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 2660.34,
+    "url": "https://porima3d.com/products/camera-anycubic-kobra-s1-series"
+  },
+  "9969292509531_50849119011163": {
+    "product_id": "9969292509531",
+    "variant_id": "50849119011163",
+    "product": "8 Colors Filament Hub - Anycubic",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1456.24,
+    "url": "https://porima3d.com/products/8-colors-filament-hub-anycubic"
+  },
+  "9967463399771_50837558460763": {
+    "product_id": "9967463399771",
+    "variant_id": "50837558460763",
+    "product": "Creality Filament Sistemi - CFS",
+    "variant": "Default Title",
+    "available": false,
+    "price": 16723.59,
+    "url": "https://porima3d.com/products/creality-filament-sistemi-cfs"
+  },
+  "9946824933723_50772379894107": {
+    "product_id": "9946824933723",
+    "variant_id": "50772379894107",
+    "product": "Bambu Hotend - Bambu Lab A1 Series",
+    "variant": "0.2 mm Paslanmaz Çelik",
+    "available": false,
+    "price": 1402.21,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-a1-series"
+  },
+  "9946824933723_50772379959643": {
+    "product_id": "9946824933723",
+    "variant_id": "50772379959643",
+    "product": "Bambu Hotend - Bambu Lab A1 Series",
+    "variant": "0.4 mm Paslanmaz Çelik",
+    "available": false,
+    "price": 1402.21,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-a1-series"
+  },
+  "9946824933723_50772379926875": {
+    "product_id": "9946824933723",
+    "variant_id": "50772379926875",
+    "product": "Bambu Hotend - Bambu Lab A1 Series",
+    "variant": "0.4 mm Sertleştirilmiş Çelik",
+    "available": false,
+    "price": 1402.21,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-a1-series"
+  },
+  "9946824933723_50772379992411": {
+    "product_id": "9946824933723",
+    "variant_id": "50772379992411",
+    "product": "Bambu Hotend - Bambu Lab A1 Series",
+    "variant": "0.6 mm Sertleştirilmiş Çelik",
+    "available": false,
+    "price": 1402.21,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-a1-series"
+  },
+  "9946824933723_50772380025179": {
+    "product_id": "9946824933723",
+    "variant_id": "50772380025179",
+    "product": "Bambu Hotend - Bambu Lab A1 Series",
+    "variant": "0.8 mm Sertleştirilmiş Çelik",
+    "available": true,
+    "price": 1487.11,
+    "url": "https://porima3d.com/products/bambu-hotend-bambu-lab-a1-series"
+  },
+  "9948292612443_50778788102491": {
+    "product_id": "9948292612443",
+    "variant_id": "50778788102491",
+    "product": "Toolhead Rear Housing - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 545.45,
+    "url": "https://porima3d.com/products/toolhead-rear-housing-bambu-lab-a1-series"
+  },
+  "9948290810203_50778779484507": {
+    "product_id": "9948290810203",
+    "variant_id": "50778779484507",
+    "product": "Heatbed Nozzle Wiper - Bambu Lab A1",
+    "variant": "Default Title",
+    "available": true,
+    "price": 535.15,
+    "url": "https://porima3d.com/products/heatbed-nozzle-wiper-bambu-lab-a1"
+  },
+  "9947074953563_50773153808731": {
+    "product_id": "9947074953563",
+    "variant_id": "50773153808731",
+    "product": "Replacement Filament Cutter - Bambu Lab",
+    "variant": "Default Title",
+    "available": true,
+    "price": 473.41,
+    "url": "https://porima3d.com/products/replacement-filament-cutter-bambu-lab"
+  },
+  "9947012464987_50773023752539": {
+    "product_id": "9947012464987",
+    "variant_id": "50773023752539",
+    "product": "Hotend Silicone Sock - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 437.39,
+    "url": "https://porima3d.com/products/hotend-silicone-sock-bambu-lab-a1-series"
+  },
+  "9946944733531_50772775174491": {
+    "product_id": "9946944733531",
+    "variant_id": "50772775174491",
+    "product": "Print Head Front Cover - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 490.89,
+    "url": "https://porima3d.com/products/print-head-front-cover-bambu-lab-a1-series"
+  },
+  "9946919928155_50772685881691": {
+    "product_id": "9946919928155",
+    "variant_id": "50772685881691",
+    "product": "Purge Wiper - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 612.34,
+    "url": "https://porima3d.com/products/purge-wiper-bambu-lab-a1-series"
+  },
+  "9946907902299_50772631781723": {
+    "product_id": "9946907902299",
+    "variant_id": "50772631781723",
+    "product": "Filament Sensor - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 555.74,
+    "url": "https://porima3d.com/products/filament-sensor-bambu-lab-a1-series"
+  },
+  "9946905215323_50772624507227": {
+    "product_id": "9946905215323",
+    "variant_id": "50772624507227",
+    "product": "AMS lite Filament Hub - Bambu Lab",
+    "variant": "Default Title",
+    "available": false,
+    "price": 689.53,
+    "url": "https://porima3d.com/products/ams-lite-filament-hub-bambu-lab"
+  },
+  "9946898891099_50772601078107": {
+    "product_id": "9946898891099",
+    "variant_id": "50772601078107",
+    "product": "Bambu USB-C Cable - Bambu Lab A1",
+    "variant": "Default Title",
+    "available": true,
+    "price": 879.92,
+    "url": "https://porima3d.com/products/bambu-usb-c-cable-bambu-lab-a1"
+  },
+  "9946893320539_50772579549531": {
+    "product_id": "9946893320539",
+    "variant_id": "50772579549531",
+    "product": "Hardened Steel Extruder Gear Assembly - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1358.47,
+    "url": "https://porima3d.com/products/hardened-steel-extruder-gear-assembly-bambu-lab-a1-series"
+  },
+  "9946887487835_50772564443483": {
+    "product_id": "9946887487835",
+    "variant_id": "50772564443483",
+    "product": "Hotend Cooling Fan - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1237.39,
+    "url": "https://porima3d.com/products/hotend-cooling-fan-bambu-lab-a1-series"
+  },
+  "9946860454235_50772486291803": {
+    "product_id": "9946860454235",
+    "variant_id": "50772486291803",
+    "product": "Part Cooling Fan - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 1162.93,
+    "url": "https://porima3d.com/products/part-cooling-fan-bambu-lab-a1-series"
+  },
+  "9946767425883_50772228374875": {
+    "product_id": "9946767425883",
+    "variant_id": "50772228374875",
+    "product": "Extruder Filament Sensor - Bambu Lab X1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 1394.49,
+    "url": "https://porima3d.com/products/extruder-filament-sensor-bambu-lab-x1-series"
+  },
+  "9946758381915_50772177813851": {
+    "product_id": "9946758381915",
+    "variant_id": "50772177813851",
+    "product": "Hotend Heating Assembly - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": false,
+    "price": 2583.15,
+    "url": "https://porima3d.com/products/hotend-heating-assembly-bambu-lab-a1-series"
+  },
+  "9946515997019_50771483558235": {
+    "product_id": "9946515997019",
+    "variant_id": "50771483558235",
+    "product": "Toolhead Board - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 2567.71,
+    "url": "https://porima3d.com/products/toolhead-board-bambu-lab-a1-series"
+  },
+  "9946467172699_50771308970331": {
+    "product_id": "9946467172699",
+    "variant_id": "50771308970331",
+    "product": "Extruder Unit - Bambu Lab A1 Series",
+    "variant": "Default Title",
+    "available": true,
+    "price": 3015.39,
+    "url": "https://porima3d.com/products/extruder-unit-bambu-lab-a1-series"
+  },
+  "9937157488987_50740335378779": {
+    "product_id": "9937157488987",
+    "variant_id": "50740335378779",
+    "product": "Anycubic ABS Like Reçine Pro 2",
+    "variant": "Şeffaf",
+    "available": false,
+    "price": 1003.42,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-pro-2"
+  },
+  "9937157488987_50740335411547": {
+    "product_id": "9937157488987",
+    "variant_id": "50740335411547",
+    "product": "Anycubic ABS Like Reçine Pro 2",
+    "variant": "Beyaz",
+    "available": false,
+    "price": 1003.42,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-pro-2"
+  },
+  "9937157488987_50740335444315": {
+    "product_id": "9937157488987",
+    "variant_id": "50740335444315",
+    "product": "Anycubic ABS Like Reçine Pro 2",
+    "variant": "Ten",
+    "available": false,
+    "price": 1003.42,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-pro-2"
+  },
+  "9937157488987_50740335477083": {
+    "product_id": "9937157488987",
+    "variant_id": "50740335477083",
+    "product": "Anycubic ABS Like Reçine Pro 2",
+    "variant": "Yarısaydam Yeşil",
+    "available": false,
+    "price": 1003.42,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-pro-2"
+  },
+  "9937157488987_50740335509851": {
+    "product_id": "9937157488987",
+    "variant_id": "50740335509851",
+    "product": "Anycubic ABS Like Reçine Pro 2",
+    "variant": "Gri",
+    "available": false,
+    "price": 1003.42,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-pro-2"
+  },
+  "9937157488987_50740335542619": {
+    "product_id": "9937157488987",
+    "variant_id": "50740335542619",
+    "product": "Anycubic ABS Like Reçine Pro 2",
+    "variant": "Siyah",
+    "available": false,
+    "price": 1003.42,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-pro-2"
+  },
+  "9913003180379_50616237785435": {
+    "product_id": "9913003180379",
+    "variant_id": "50616237785435",
+    "product": "PorimaX Smooth Rainbow Streak H1H / Smooth Phantom H1H Tabla",
+    "variant": "235 mm x 235 mm",
+    "available": true,
+    "price": 941.14,
+    "url": "https://porima3d.com/products/porimax-smooth-rainbow-streak-h1h-smooth-phantom-h1h-tabla"
+  },
+  "9913003180379_50894991622491": {
+    "product_id": "9913003180379",
+    "variant_id": "50894991622491",
+    "product": "PorimaX Smooth Rainbow Streak H1H / Smooth Phantom H1H Tabla",
+    "variant": "264 mm x 276 mm",
+    "available": true,
+    "price": 921.08,
+    "url": "https://porima3d.com/products/porimax-smooth-rainbow-streak-h1h-smooth-phantom-h1h-tabla"
+  },
+  "9913003180379_50616237818203": {
+    "product_id": "9913003180379",
+    "variant_id": "50616237818203",
+    "product": "PorimaX Smooth Rainbow Streak H1H / Smooth Phantom H1H Tabla",
+    "variant": "310 mm x 315 mm",
+    "available": true,
+    "price": 1432.39,
+    "url": "https://porima3d.com/products/porimax-smooth-rainbow-streak-h1h-smooth-phantom-h1h-tabla"
+  },
+  "9859966370139_50446295433563": {
+    "product_id": "9859966370139",
+    "variant_id": "50446295433563",
+    "product": "Creality SpacePi X4 Filament Kurutucu",
+    "variant": "Default Title",
+    "available": false,
+    "price": 11063.3,
+    "url": "https://porima3d.com/products/creality-spacepi-x4-filament-kurutucu"
+  },
+  "9890405646683_50556333392219": {
+    "product_id": "9890405646683",
+    "variant_id": "50556333392219",
+    "product": "Porima PLA/CF Filament",
+    "variant": "Siyah / 1.75mm / 1kg",
+    "available": false,
+    "price": 1098.0,
+    "url": "https://porima3d.com/products/porima-pla-cf-filament"
+  },
+  "9869482557787_50948390846811": {
+    "product_id": "9869482557787",
+    "variant_id": "50948390846811",
+    "product": "Porima HT PETG Filament",
+    "variant": "Naturel / 1.75mm",
+    "available": false,
+    "price": 828.0,
+    "url": "https://porima3d.com/products/porima-ht-petg-filament"
+  },
+  "9869482557787_50483073876315": {
+    "product_id": "9869482557787",
+    "variant_id": "50483073876315",
+    "product": "Porima HT PETG Filament",
+    "variant": "Beyaz / 1.75mm",
+    "available": false,
+    "price": 828.0,
+    "url": "https://porima3d.com/products/porima-ht-petg-filament"
+  },
+  "9869482557787_50820255416667": {
+    "product_id": "9869482557787",
+    "variant_id": "50820255416667",
+    "product": "Porima HT PETG Filament",
+    "variant": "Gri / 1.75mm",
+    "available": false,
+    "price": 828.0,
+    "url": "https://porima3d.com/products/porima-ht-petg-filament"
+  },
+  "9869482557787_50483073843547": {
+    "product_id": "9869482557787",
+    "variant_id": "50483073843547",
+    "product": "Porima HT PETG Filament",
+    "variant": "Siyah / 1.75mm",
+    "available": false,
+    "price": 828.0,
+    "url": "https://porima3d.com/products/porima-ht-petg-filament"
+  },
+  "9781548351835_50209812775259": {
+    "product_id": "9781548351835",
+    "variant_id": "50209812775259",
+    "product": "ELEGOO Bitki Bazlı (Plant-based) Reçine",
+    "variant": "0.5kg / Gri",
+    "available": false,
+    "price": 1543.72,
+    "url": "https://porima3d.com/products/elegoo-bitki-bazli-plant-based-recine"
+  },
+  "9781548351835_50209808646491": {
+    "product_id": "9781548351835",
+    "variant_id": "50209808646491",
+    "product": "ELEGOO Bitki Bazlı (Plant-based) Reçine",
+    "variant": "1kg / Gri",
+    "available": false,
+    "price": 1929.65,
+    "url": "https://porima3d.com/products/elegoo-bitki-bazli-plant-based-recine"
+  },
+  "9781541503323_51314095292763": {
+    "product_id": "9781541503323",
+    "variant_id": "51314095292763",
+    "product": "ELEGOO ABS-Like v3.0 Reçine",
+    "variant": "1kg / Beyaz",
+    "available": false,
+    "price": 2014.12,
+    "url": "https://porima3d.com/products/elegoo-abs-like-v3-0-recine"
+  },
+  "9781541503323_50209799012699": {
+    "product_id": "9781541503323",
+    "variant_id": "50209799012699",
+    "product": "ELEGOO ABS-Like v3.0 Reçine",
+    "variant": "1kg / Gri",
+    "available": false,
+    "price": 2014.12,
+    "url": "https://porima3d.com/products/elegoo-abs-like-v3-0-recine"
+  },
+  "9781539275099_50209795539291": {
+    "product_id": "9781539275099",
+    "variant_id": "50209795539291",
+    "product": "ELEGOO ABS-Like v2.0 Reçine",
+    "variant": "1kg / Gri",
+    "available": false,
+    "price": 2014.12,
+    "url": "https://porima3d.com/products/elegoo-abs-like-v2-0-recine"
+  },
+  "9781525774683_50209782301019": {
+    "product_id": "9781525774683",
+    "variant_id": "50209782301019",
+    "product": "ELEGOO ABS-Like Reçine",
+    "variant": "1kg / Yarısaydam",
+    "available": false,
+    "price": 1391.06,
+    "url": "https://porima3d.com/products/elegoo-abs-like-recine"
+  },
+  "9781525774683_50209782333787": {
+    "product_id": "9781525774683",
+    "variant_id": "50209782333787",
+    "product": "ELEGOO ABS-Like Reçine",
+    "variant": "1kg / Bej",
+    "available": false,
+    "price": 1391.06,
+    "url": "https://porima3d.com/products/elegoo-abs-like-recine"
+  },
+  "9781525774683_50209782366555": {
+    "product_id": "9781525774683",
+    "variant_id": "50209782366555",
+    "product": "ELEGOO ABS-Like Reçine",
+    "variant": "1kg / Beyaz",
+    "available": false,
+    "price": 1029.14,
+    "url": "https://porima3d.com/products/elegoo-abs-like-recine"
+  },
+  "9781525774683_50209782399323": {
+    "product_id": "9781525774683",
+    "variant_id": "50209782399323",
+    "product": "ELEGOO ABS-Like Reçine",
+    "variant": "1kg / Gri",
+    "available": false,
+    "price": 1029.14,
+    "url": "https://porima3d.com/products/elegoo-abs-like-recine"
+  },
+  "9781525774683_50209782432091": {
+    "product_id": "9781525774683",
+    "variant_id": "50209782432091",
+    "product": "ELEGOO ABS-Like Reçine",
+    "variant": "1kg / Dumanlı Siyah",
+    "available": false,
+    "price": 1029.14,
+    "url": "https://porima3d.com/products/elegoo-abs-like-recine"
+  },
+  "9781283127643_50208941572443": {
+    "product_id": "9781283127643",
+    "variant_id": "50208941572443",
+    "product": "Anycubic Bitki Bazlı (Plant-based) UV Reçine",
+    "variant": "1kg / Şeffaf",
+    "available": false,
+    "price": 896.1,
+    "url": "https://porima3d.com/products/anycubic-bitki-bazli-plant-based-uv-recine"
+  },
+  "9781283127643_50208941637979": {
+    "product_id": "9781283127643",
+    "variant_id": "50208941637979",
+    "product": "Anycubic Bitki Bazlı (Plant-based) UV Reçine",
+    "variant": "1kg / Beyaz",
+    "available": false,
+    "price": 896.1,
+    "url": "https://porima3d.com/products/anycubic-bitki-bazli-plant-based-uv-recine"
+  },
+  "9781283127643_50208941703515": {
+    "product_id": "9781283127643",
+    "variant_id": "50208941703515",
+    "product": "Anycubic Bitki Bazlı (Plant-based) UV Reçine",
+    "variant": "1kg / Yarısaydam Yeşil",
+    "available": false,
+    "price": 896.1,
+    "url": "https://porima3d.com/products/anycubic-bitki-bazli-plant-based-uv-recine"
+  },
+  "9781283127643_50208941736283": {
+    "product_id": "9781283127643",
+    "variant_id": "50208941736283",
+    "product": "Anycubic Bitki Bazlı (Plant-based) UV Reçine",
+    "variant": "1kg / Gri",
+    "available": false,
+    "price": 896.1,
+    "url": "https://porima3d.com/products/anycubic-bitki-bazli-plant-based-uv-recine"
+  },
+  "9781283127643_50208941769051": {
+    "product_id": "9781283127643",
+    "variant_id": "50208941769051",
+    "product": "Anycubic Bitki Bazlı (Plant-based) UV Reçine",
+    "variant": "1kg / Siyah",
+    "available": false,
+    "price": 896.1,
+    "url": "https://porima3d.com/products/anycubic-bitki-bazli-plant-based-uv-recine"
+  },
+  "9781253964123_50208839565659": {
+    "product_id": "9781253964123",
+    "variant_id": "50208839565659",
+    "product": "Anycubic ABS Like Reçine V2",
+    "variant": "1kg / Şeffaf",
+    "available": false,
+    "price": 1050.6,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-v2"
+  },
+  "9781253964123_50208875348315": {
+    "product_id": "9781253964123",
+    "variant_id": "50208875348315",
+    "product": "Anycubic ABS Like Reçine V2",
+    "variant": "1kg / Ten",
+    "available": false,
+    "price": 1050.6,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-v2"
+  },
+  "9781253964123_50208875381083": {
+    "product_id": "9781253964123",
+    "variant_id": "50208875381083",
+    "product": "Anycubic ABS Like Reçine V2",
+    "variant": "1kg / Beyaz",
+    "available": false,
+    "price": 1050.6,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-v2"
+  },
+  "9781253964123_50208875413851": {
+    "product_id": "9781253964123",
+    "variant_id": "50208875413851",
+    "product": "Anycubic ABS Like Reçine V2",
+    "variant": "1kg / Deniz Mavisi",
+    "available": false,
+    "price": 1050.6,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-v2"
+  },
+  "9781253964123_50208875446619": {
+    "product_id": "9781253964123",
+    "variant_id": "50208875446619",
+    "product": "Anycubic ABS Like Reçine V2",
+    "variant": "1kg / Yarısaydam Yeşil",
+    "available": false,
+    "price": 1050.6,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-v2"
+  },
+  "9781253964123_50208875479387": {
+    "product_id": "9781253964123",
+    "variant_id": "50208875479387",
+    "product": "Anycubic ABS Like Reçine V2",
+    "variant": "1kg / Gri",
+    "available": false,
+    "price": 1050.6,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-v2"
+  },
+  "9781253964123_50208875512155": {
+    "product_id": "9781253964123",
+    "variant_id": "50208875512155",
+    "product": "Anycubic ABS Like Reçine V2",
+    "variant": "1kg / Siyah",
+    "available": false,
+    "price": 1050.6,
+    "url": "https://porima3d.com/products/anycubic-abs-like-recine-v2"
+  },
+  "9776073605467_50188821692763": {
+    "product_id": "9776073605467",
+    "variant_id": "50188821692763",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": true,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_50188821725531": {
+    "product_id": "9776073605467",
+    "variant_id": "50188821725531",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Altın / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_50188821758299": {
+    "product_id": "9776073605467",
+    "variant_id": "50188821758299",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Gümüş / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_50188823298395": {
+    "product_id": "9776073605467",
+    "variant_id": "50188823298395",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Bakır / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_51445641838939": {
+    "product_id": "9776073605467",
+    "variant_id": "51445641838939",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Kırmızı / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_51445641806171": {
+    "product_id": "9776073605467",
+    "variant_id": "51445641806171",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Fuşya / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_50188821791067": {
+    "product_id": "9776073605467",
+    "variant_id": "50188821791067",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Magenta / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_51445641871707": {
+    "product_id": "9776073605467",
+    "variant_id": "51445641871707",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Violet / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_51445641904475": {
+    "product_id": "9776073605467",
+    "variant_id": "51445641904475",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Turkuaz / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_50188821823835": {
+    "product_id": "9776073605467",
+    "variant_id": "50188821823835",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Mavi / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9776073605467_50188821856603": {
+    "product_id": "9776073605467",
+    "variant_id": "50188821856603",
+    "product": "Porima Silk PLA Filament",
+    "variant": "Yeşil / 1.75mm / 1kg",
+    "available": false,
+    "price": 696.0,
+    "url": "https://porima3d.com/products/porima-silk-pla-filament"
+  },
+  "9490951569755_49130791272795": {
+    "product_id": "9490951569755",
+    "variant_id": "49130791272795",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA / 1.75mm / 1kg",
+    "available": false,
+    "price": 444.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50483161137499": {
+    "product_id": "9490951569755",
+    "variant_id": "50483161137499",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA / 1.75mm / 3kg",
+    "available": false,
+    "price": 1344.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50188128682331": {
+    "product_id": "9490951569755",
+    "variant_id": "50188128682331",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA Silk / 1.75mm / 1kg",
+    "available": false,
+    "price": 492.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51306753556827": {
+    "product_id": "9490951569755",
+    "variant_id": "51306753556827",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Eco Silk PLA / 1.75mm / 1kg",
+    "available": false,
+    "price": 450.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51154278941019": {
+    "product_id": "9490951569755",
+    "variant_id": "51154278941019",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Smart PLA / 1.75mm / 1kg",
+    "available": false,
+    "price": 318.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51154278973787": {
+    "product_id": "9490951569755",
+    "variant_id": "51154278973787",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Smart PLA / 1.75mm / 3kg",
+    "available": false,
+    "price": 444.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51249168679259": {
+    "product_id": "9490951569755",
+    "variant_id": "51249168679259",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Eco Smart PLA / 1.75mm / 1kg",
+    "available": false,
+    "price": 288.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51249168712027": {
+    "product_id": "9490951569755",
+    "variant_id": "51249168712027",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Eco Smart PLA / 1.75mm / 3kg",
+    "available": false,
+    "price": 444.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50188128715099": {
+    "product_id": "9490951569755",
+    "variant_id": "50188128715099",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Eco PLA / 1.75mm / 1kg",
+    "available": false,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50483106775387": {
+    "product_id": "9490951569755",
+    "variant_id": "50483106775387",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Hyper PLA / 1.75mm / 1kg",
+    "available": false,
+    "price": 612.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51424459587931": {
+    "product_id": "9490951569755",
+    "variant_id": "51424459587931",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Hyper PLA / 1.75mm / 3kg",
+    "available": true,
+    "price": 1644.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130791305563": {
+    "product_id": "9490951569755",
+    "variant_id": "49130791305563",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA Premium / 1.75mm / 1kg",
+    "available": false,
+    "price": 468.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50483161170267": {
+    "product_id": "9490951569755",
+    "variant_id": "50483161170267",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA Premium / 1.75mm / 3kg",
+    "available": false,
+    "price": 1416.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130797957467": {
+    "product_id": "9490951569755",
+    "variant_id": "49130797957467",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA Pastel / 1.75mm / 1kg",
+    "available": false,
+    "price": 468.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50483439370587": {
+    "product_id": "9490951569755",
+    "variant_id": "50483439370587",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA Pastel / 1.75mm / 3kg",
+    "available": false,
+    "price": 1416.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798023003": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798023003",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA Star / 1.75mm / 1kg",
+    "available": false,
+    "price": 468.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798055771": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798055771",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PLA Wood / 1.75mm / 1kg",
+    "available": false,
+    "price": 624.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130797990235": {
+    "product_id": "9490951569755",
+    "variant_id": "49130797990235",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Tough PLA / 1.75mm / 1kg",
+    "available": false,
+    "price": 552.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50483433341275": {
+    "product_id": "9490951569755",
+    "variant_id": "50483433341275",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Tough PLA / 1.75mm / 3kg",
+    "available": false,
+    "price": 1668.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51500498059611": {
+    "product_id": "9490951569755",
+    "variant_id": "51500498059611",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PA / 1.75mm / 1kg",
+    "available": false,
+    "price": 624.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50928844505435": {
+    "product_id": "9490951569755",
+    "variant_id": "50928844505435",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "HT PETG / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50928844538203": {
+    "product_id": "9490951569755",
+    "variant_id": "50928844538203",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "HT PETG / 1.75mm / 3kg",
+    "available": false,
+    "price": 444.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798121307": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798121307",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PETG / 1.75mm / 1kg",
+    "available": true,
+    "price": 492.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_50483443237211": {
+    "product_id": "9490951569755",
+    "variant_id": "50483443237211",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PETG / 1.75mm / 3kg",
+    "available": true,
+    "price": 1416.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798088539": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798088539",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "ABS / 1.75mm / 1kg",
+    "available": false,
+    "price": 408.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_51766337405275": {
+    "product_id": "9490951569755",
+    "variant_id": "51766337405275",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "Eco ABS / 1.75mm / 1kg",
+    "available": false,
+    "price": 366.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798186843": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798186843",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "ASA / 1.75mm / 1kg",
+    "available": false,
+    "price": 600.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798252379": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798252379",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "PC/ABS / 1.75mm / 1kg",
+    "available": false,
+    "price": 792.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798154075": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798154075",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "TPU 95A / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490951569755_49130798219611": {
+    "product_id": "9490951569755",
+    "variant_id": "49130798219611",
+    "product": "Porima ColorShift (Renk Geçiş) Filament",
+    "variant": "TPU 98A / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-colorshift-renk-gecis-filament"
+  },
+  "9490947735899_50198048276827": {
+    "product_id": "9490947735899",
+    "variant_id": "50198048276827",
+    "product": "Porima TPU Flex 98A Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-tpu-flex-esnek-98a-filament"
+  },
+  "9490947735899_49130784424283": {
+    "product_id": "9490947735899",
+    "variant_id": "49130784424283",
+    "product": "Porima TPU Flex 98A Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-tpu-flex-esnek-98a-filament"
+  },
+  "9490947735899_49130784457051": {
+    "product_id": "9490947735899",
+    "variant_id": "49130784457051",
+    "product": "Porima TPU Flex 98A Filament",
+    "variant": "Sarı RAL1023 / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-tpu-flex-esnek-98a-filament"
+  },
+  "9490947735899_49130784489819": {
+    "product_id": "9490947735899",
+    "variant_id": "49130784489819",
+    "product": "Porima TPU Flex 98A Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-tpu-flex-esnek-98a-filament"
+  },
+  "9490947735899_49130784522587": {
+    "product_id": "9490947735899",
+    "variant_id": "49130784522587",
+    "product": "Porima TPU Flex 98A Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-tpu-flex-esnek-98a-filament"
+  },
+  "9490947735899_49130784555355": {
+    "product_id": "9490947735899",
+    "variant_id": "49130784555355",
+    "product": "Porima TPU Flex 98A Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-tpu-flex-esnek-98a-filament"
+  },
+  "9490944852315_50197721219419": {
+    "product_id": "9490944852315",
+    "variant_id": "50197721219419",
+    "product": "Porima HIPS Destek Filamenti",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 564.0,
+    "url": "https://porima3d.com/products/porima-hips-destek-filamenti"
+  },
+  "9490936398171_50197827879259": {
+    "product_id": "9490936398171",
+    "variant_id": "50197827879259",
+    "product": "Porima PC/ABS Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 1140.0,
+    "url": "https://porima3d.com/products/porima-pc-abs-filament"
+  },
+  "9490936398171_49130749165915": {
+    "product_id": "9490936398171",
+    "variant_id": "49130749165915",
+    "product": "Porima PC/ABS Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 1140.0,
+    "url": "https://porima3d.com/products/porima-pc-abs-filament"
+  },
+  "9490936398171_49130749231451": {
+    "product_id": "9490936398171",
+    "variant_id": "49130749231451",
+    "product": "Porima PC/ABS Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": true,
+    "price": 1140.0,
+    "url": "https://porima3d.com/products/porima-pc-abs-filament"
+  },
+  "9490931941723_50197837873499": {
+    "product_id": "9490931941723",
+    "variant_id": "50197837873499",
+    "product": "Porima ASA Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": true,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490931941723_49130737500507": {
+    "product_id": "9490931941723",
+    "variant_id": "49130737500507",
+    "product": "Porima ASA Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490931941723_49130737631579": {
+    "product_id": "9490931941723",
+    "variant_id": "49130737631579",
+    "product": "Porima ASA Filament",
+    "variant": "Sarı RAL1023 / 1.75mm / 1kg",
+    "available": true,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490931941723_49130737533275": {
+    "product_id": "9490931941723",
+    "variant_id": "49130737533275",
+    "product": "Porima ASA Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 1kg",
+    "available": true,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490931941723_49130737664347": {
+    "product_id": "9490931941723",
+    "variant_id": "49130737664347",
+    "product": "Porima ASA Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 1kg",
+    "available": true,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490931941723_49130737697115": {
+    "product_id": "9490931941723",
+    "variant_id": "49130737697115",
+    "product": "Porima ASA Filament",
+    "variant": "Yeşil RAL6029 / 1.75mm / 1kg",
+    "available": true,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490931941723_49130737566043": {
+    "product_id": "9490931941723",
+    "variant_id": "49130737566043",
+    "product": "Porima ASA Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 1kg",
+    "available": true,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490931941723_49130737598811": {
+    "product_id": "9490931941723",
+    "variant_id": "49130737598811",
+    "product": "Porima ASA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": false,
+    "price": 852.0,
+    "url": "https://porima3d.com/products/porima-asa-filament"
+  },
+  "9490903662939_50197847998811": {
+    "product_id": "9490903662939",
+    "variant_id": "50197847998811",
+    "product": "Porima ABS Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611245403": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611245403",
+    "product": "Porima ABS Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611278171": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611278171",
+    "product": "Porima ABS Filament",
+    "variant": "Sarı RAL1023 / 1.75mm / 1kg",
+    "available": false,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611310939": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611310939",
+    "product": "Porima ABS Filament",
+    "variant": "Turuncu RAL2009 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611343707": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611343707",
+    "product": "Porima ABS Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611376475": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611376475",
+    "product": "Porima ABS Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611409243": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611409243",
+    "product": "Porima ABS Filament",
+    "variant": "Yeşil RAL6029 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611442011": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611442011",
+    "product": "Porima ABS Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611474779": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611474779",
+    "product": "Porima ABS Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611507547": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611507547",
+    "product": "Porima ABS Filament",
+    "variant": "Kahverengi RAL8007 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490903662939_49130611540315": {
+    "product_id": "9490903662939",
+    "variant_id": "49130611540315",
+    "product": "Porima ABS Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": true,
+    "price": 588.0,
+    "url": "https://porima3d.com/products/porima-abs-filament"
+  },
+  "9490880364891_49139143049563": {
+    "product_id": "9490880364891",
+    "variant_id": "49139143049563",
+    "product": "Porima PETG Transparan Filament",
+    "variant": "Neon Sarı / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-transparan-filament"
+  },
+  "9490880364891_49139143082331": {
+    "product_id": "9490880364891",
+    "variant_id": "49139143082331",
+    "product": "Porima PETG Transparan Filament",
+    "variant": "Neon Turuncu / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-transparan-filament"
+  },
+  "9490880364891_49139143115099": {
+    "product_id": "9490880364891",
+    "variant_id": "49139143115099",
+    "product": "Porima PETG Transparan Filament",
+    "variant": "Neon Yeşil / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-transparan-filament"
+  },
+  "9490880364891_49139143147867": {
+    "product_id": "9490880364891",
+    "variant_id": "49139143147867",
+    "product": "Porima PETG Transparan Filament",
+    "variant": "Buz Mavi / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-transparan-filament"
+  },
+  "9490880364891_49139143180635": {
+    "product_id": "9490880364891",
+    "variant_id": "49139143180635",
+    "product": "Porima PETG Transparan Filament",
+    "variant": "Şarap Kırmızı / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-transparan-filament"
+  },
+  "9490880364891_49139143213403": {
+    "product_id": "9490880364891",
+    "variant_id": "49139143213403",
+    "product": "Porima PETG Transparan Filament",
+    "variant": "Gece Mavi / 1.75mm / 1kg",
+    "available": false,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-transparan-filament"
+  },
+  "9490828820827_49132451168603": {
+    "product_id": "9490828820827",
+    "variant_id": "49132451168603",
+    "product": "Porima PLA Star (Simli) Filament",
+    "variant": "Nebula / 1.75mm / 1kg",
+    "available": true,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-star-simli-filament"
+  },
+  "9490828820827_49132451201371": {
+    "product_id": "9490828820827",
+    "variant_id": "49132451201371",
+    "product": "Porima PLA Star (Simli) Filament",
+    "variant": "Neptün / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-star-simli-filament"
+  },
+  "9490828820827_49132451234139": {
+    "product_id": "9490828820827",
+    "variant_id": "49132451234139",
+    "product": "Porima PLA Star (Simli) Filament",
+    "variant": "Galaksi Yeşil / 1.75mm / 1kg",
+    "available": true,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-star-simli-filament"
+  },
+  "9490828820827_49130416505179": {
+    "product_id": "9490828820827",
+    "variant_id": "49130416505179",
+    "product": "Porima PLA Star (Simli) Filament",
+    "variant": "Siyah / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-star-simli-filament"
+  },
+  "9490824429915_49132667601243": {
+    "product_id": "9490824429915",
+    "variant_id": "49132667601243",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Sarı / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490824429915_49132667634011": {
+    "product_id": "9490824429915",
+    "variant_id": "49132667634011",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Sarı / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490824429915_49132289032539": {
+    "product_id": "9490824429915",
+    "variant_id": "49132289032539",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Su Yeşili / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490824429915_49132289098075": {
+    "product_id": "9490824429915",
+    "variant_id": "49132289098075",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Su Yeşili / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490824429915_49132289065307": {
+    "product_id": "9490824429915",
+    "variant_id": "49132289065307",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Toz Pembe / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490824429915_49132289130843": {
+    "product_id": "9490824429915",
+    "variant_id": "49132289130843",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Toz Pembe / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490824429915_49131907154267": {
+    "product_id": "9490824429915",
+    "variant_id": "49131907154267",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Bebek Mavisi / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490824429915_49131907187035": {
+    "product_id": "9490824429915",
+    "variant_id": "49131907187035",
+    "product": "Porima PLA Pastel Filament",
+    "variant": "Bebek Mavisi / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-pastel-filament"
+  },
+  "9490805981531_49132485509467": {
+    "product_id": "9490805981531",
+    "variant_id": "49132485509467",
+    "product": "Porima PLA Wood Filament",
+    "variant": "Wood / 1.75mm / 1kg",
+    "available": false,
+    "price": 888.0,
+    "url": "https://porima3d.com/products/porima-pla-wood-filament"
+  },
+  "9490805981531_49132485542235": {
+    "product_id": "9490805981531",
+    "variant_id": "49132485542235",
+    "product": "Porima PLA Wood Filament",
+    "variant": "Pine Wood (Çam) / 1.75mm / 1kg",
+    "available": true,
+    "price": 888.0,
+    "url": "https://porima3d.com/products/porima-pla-wood-filament"
+  },
+  "9490805981531_49132485575003": {
+    "product_id": "9490805981531",
+    "variant_id": "49132485575003",
+    "product": "Porima PLA Wood Filament",
+    "variant": "Walnut Wood (Ceviz) / 1.75mm / 1kg",
+    "available": false,
+    "price": 888.0,
+    "url": "https://porima3d.com/products/porima-pla-wood-filament"
+  },
+  "9490805981531_49132485607771": {
+    "product_id": "9490805981531",
+    "variant_id": "49132485607771",
+    "product": "Porima PLA Wood Filament",
+    "variant": "Dark Wood / 1.75mm / 1kg",
+    "available": true,
+    "price": 888.0,
+    "url": "https://porima3d.com/products/porima-pla-wood-filament"
+  },
+  "9490803327323_49130307879259": {
+    "product_id": "9490803327323",
+    "variant_id": "49130307879259",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": false,
+    "price": 792.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490803327323_49130308010331": {
+    "product_id": "9490803327323",
+    "variant_id": "49130308010331",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2244.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490803327323_49130307912027": {
+    "product_id": "9490803327323",
+    "variant_id": "49130307912027",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 1kg",
+    "available": false,
+    "price": 792.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490803327323_49130308043099": {
+    "product_id": "9490803327323",
+    "variant_id": "49130308043099",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2244.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490803327323_49130307944795": {
+    "product_id": "9490803327323",
+    "variant_id": "49130307944795",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 1kg",
+    "available": false,
+    "price": 792.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490803327323_49130308075867": {
+    "product_id": "9490803327323",
+    "variant_id": "49130308075867",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2244.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490803327323_49130307977563": {
+    "product_id": "9490803327323",
+    "variant_id": "49130307977563",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": false,
+    "price": 792.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490803327323_49130308108635": {
+    "product_id": "9490803327323",
+    "variant_id": "49130308108635",
+    "product": "Porima Tough PLA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2244.0,
+    "url": "https://porima3d.com/products/porima-tough-pla-filament"
+  },
+  "9490772394331_51185121132891": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121132891",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121165659": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121165659",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Ten / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49130263249243": {
+    "product_id": "9490772394331",
+    "variant_id": "49130263249243",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121198427": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121198427",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Altın RAL1036 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49427251659099": {
+    "product_id": "9490772394331",
+    "variant_id": "49427251659099",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Sarı RAL1023 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121231195": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121231195",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Turuncu RAL2009 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49427251691867": {
+    "product_id": "9490772394331",
+    "variant_id": "49427251691867",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121263963": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121263963",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Pembe RAL4003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121296731": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121296731",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Mor RAL4005 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121329499": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121329499",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Bordo RAL3004 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49427251724635": {
+    "product_id": "9490772394331",
+    "variant_id": "49427251724635",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121362267": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121362267",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Mavi RAL5003 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49427251757403": {
+    "product_id": "9490772394331",
+    "variant_id": "49427251757403",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Yeşil RAL6018 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121395035": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121395035",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Yeşil RAL6029 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49427251790171": {
+    "product_id": "9490772394331",
+    "variant_id": "49427251790171",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49427251822939": {
+    "product_id": "9490772394331",
+    "variant_id": "49427251822939",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_51185121427803": {
+    "product_id": "9490772394331",
+    "variant_id": "51185121427803",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Kahverengi RAL8007 / 1.75mm / 1kg",
+    "available": false,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490772394331_49130263282011": {
+    "product_id": "9490772394331",
+    "variant_id": "49130263282011",
+    "product": "Porima Eco PLA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": true,
+    "price": 576.0,
+    "url": "https://porima3d.com/products/porima-eco-pla-filament"
+  },
+  "9490768167259_50198031958363": {
+    "product_id": "9490768167259",
+    "variant_id": "50198031958363",
+    "product": "Porima PETG Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_50198031991131": {
+    "product_id": "9490768167259",
+    "variant_id": "50198031991131",
+    "product": "Porima PETG Filament",
+    "variant": "Naturel / 1.75mm / 3kg",
+    "available": true,
+    "price": 2004.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242277723": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242277723",
+    "product": "Porima PETG Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242474331": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242474331",
+    "product": "Porima PETG Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 3kg",
+    "available": true,
+    "price": 2004.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242310491": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242310491",
+    "product": "Porima PETG Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242507099": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242507099",
+    "product": "Porima PETG Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2004.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242343259": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242343259",
+    "product": "Porima PETG Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 1kg",
+    "available": false,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242539867": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242539867",
+    "product": "Porima PETG Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2004.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242376027": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242376027",
+    "product": "Porima PETG Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 1kg",
+    "available": false,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242572635": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242572635",
+    "product": "Porima PETG Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2004.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242408795": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242408795",
+    "product": "Porima PETG Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": true,
+    "price": 708.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490768167259_49130242605403": {
+    "product_id": "9490768167259",
+    "variant_id": "49130242605403",
+    "product": "Porima PETG Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 3kg",
+    "available": true,
+    "price": 2004.0,
+    "url": "https://porima3d.com/products/porima-petg-filament"
+  },
+  "9490743820635_50198064202075": {
+    "product_id": "9490743820635",
+    "variant_id": "50198064202075",
+    "product": "Porima PLA Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_50198064234843": {
+    "product_id": "9490743820635",
+    "variant_id": "50198064234843",
+    "product": "Porima PLA Filament",
+    "variant": "Naturel / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119725403": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119725403",
+    "product": "Porima PLA Filament",
+    "variant": "Ten / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259265371": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259265371",
+    "product": "Porima PLA Filament",
+    "variant": "Ten / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119758171": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119758171",
+    "product": "Porima PLA Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259298139": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259298139",
+    "product": "Porima PLA Filament",
+    "variant": "Beyaz RAL9003 / 1.75mm / 3kg",
+    "available": true,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119790939": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119790939",
+    "product": "Porima PLA Filament",
+    "variant": "Altın RAL1036 / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259330907": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259330907",
+    "product": "Porima PLA Filament",
+    "variant": "Altın RAL1036 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119823707": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119823707",
+    "product": "Porima PLA Filament",
+    "variant": "Sarı RAL1023 / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259363675": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259363675",
+    "product": "Porima PLA Filament",
+    "variant": "Sarı RAL1023 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119856475": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119856475",
+    "product": "Porima PLA Filament",
+    "variant": "Turuncu RAL2009 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259396443": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259396443",
+    "product": "Porima PLA Filament",
+    "variant": "Turuncu RAL2009 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119889243": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119889243",
+    "product": "Porima PLA Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259429211": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259429211",
+    "product": "Porima PLA Filament",
+    "variant": "Kırmızı RAL3020 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130120020315": {
+    "product_id": "9490743820635",
+    "variant_id": "49130120020315",
+    "product": "Porima PLA Filament",
+    "variant": "Pembe RAL4003 / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259461979": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259461979",
+    "product": "Porima PLA Filament",
+    "variant": "Pembe RAL4003 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130120216923": {
+    "product_id": "9490743820635",
+    "variant_id": "49130120216923",
+    "product": "Porima PLA Filament",
+    "variant": "Mor RAL4005 / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259494747": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259494747",
+    "product": "Porima PLA Filament",
+    "variant": "Mor RAL4005 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49132636864859": {
+    "product_id": "9490743820635",
+    "variant_id": "49132636864859",
+    "product": "Porima PLA Filament",
+    "variant": "Bordo RAL3004 / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49132636897627": {
+    "product_id": "9490743820635",
+    "variant_id": "49132636897627",
+    "product": "Porima PLA Filament",
+    "variant": "Bordo RAL3004 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130120151387": {
+    "product_id": "9490743820635",
+    "variant_id": "49130120151387",
+    "product": "Porima PLA Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259756891": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259756891",
+    "product": "Porima PLA Filament",
+    "variant": "Açık Mavi RAL5015 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119922011": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119922011",
+    "product": "Porima PLA Filament",
+    "variant": "Mavi RAL5003 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259560283": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259560283",
+    "product": "Porima PLA Filament",
+    "variant": "Mavi RAL5003 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119954779": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119954779",
+    "product": "Porima PLA Filament",
+    "variant": "Yeşil RAL6018 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259593051": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259593051",
+    "product": "Porima PLA Filament",
+    "variant": "Yeşil RAL6018 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130120118619": {
+    "product_id": "9490743820635",
+    "variant_id": "49130120118619",
+    "product": "Porima PLA Filament",
+    "variant": "Yeşil RAL6029 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259724123": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259724123",
+    "product": "Porima PLA Filament",
+    "variant": "Yeşil RAL6029 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130119987547": {
+    "product_id": "9490743820635",
+    "variant_id": "49130119987547",
+    "product": "Porima PLA Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259625819": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259625819",
+    "product": "Porima PLA Filament",
+    "variant": "Gümüş RAL7046 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130120085851": {
+    "product_id": "9490743820635",
+    "variant_id": "49130120085851",
+    "product": "Porima PLA Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259691355": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259691355",
+    "product": "Porima PLA Filament",
+    "variant": "Gri RAL7015 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130120053083": {
+    "product_id": "9490743820635",
+    "variant_id": "49130120053083",
+    "product": "Porima PLA Filament",
+    "variant": "Kahverengi RAL8007 / 1.75mm / 1kg",
+    "available": false,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259658587": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259658587",
+    "product": "Porima PLA Filament",
+    "variant": "Kahverengi RAL8007 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49130120184155": {
+    "product_id": "9490743820635",
+    "variant_id": "49130120184155",
+    "product": "Porima PLA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": true,
+    "price": 636.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490743820635_49131259789659": {
+    "product_id": "9490743820635",
+    "variant_id": "49131259789659",
+    "product": "Porima PLA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 3kg",
+    "available": false,
+    "price": 1800.0,
+    "url": "https://porima3d.com/products/porima-pla-filament"
+  },
+  "9490720424283_49132417679707": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417679707",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Granit / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417909083": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417909083",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Granit / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417712475": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417712475",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Old But Gold / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417941851": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417941851",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Old But Gold / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417745243": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417745243",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Bakır / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417974619": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417974619",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Bakır / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417778011": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417778011",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Yakut Kırmızı / 1.75mm / 1kg",
+    "available": true,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132418007387": {
+    "product_id": "9490720424283",
+    "variant_id": "49132418007387",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Yakut Kırmızı / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417810779": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417810779",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Violet / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132418040155": {
+    "product_id": "9490720424283",
+    "variant_id": "49132418040155",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Violet / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417843547": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417843547",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Safir Mavi / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132418072923": {
+    "product_id": "9490720424283",
+    "variant_id": "49132418072923",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Safir Mavi / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132417876315": {
+    "product_id": "9490720424283",
+    "variant_id": "49132417876315",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Zümrüt Yeşil / 1.75mm / 1kg",
+    "available": false,
+    "price": 660.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9490720424283_49132418105691": {
+    "product_id": "9490720424283",
+    "variant_id": "49132418105691",
+    "product": "Porima PLA Premium Filament",
+    "variant": "Zümrüt Yeşil / 1.75mm / 3kg",
+    "available": false,
+    "price": 1896.0,
+    "url": "https://porima3d.com/products/porima-pla-premium-filament"
+  },
+  "9483573985627_50197814870363": {
+    "product_id": "9483573985627",
+    "variant_id": "50197814870363",
+    "product": "Porima Hyper PLA Filament",
+    "variant": "Naturel / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-hyper-pla-filament"
+  },
+  "9483573985627_50197814903131": {
+    "product_id": "9483573985627",
+    "variant_id": "50197814903131",
+    "product": "Porima Hyper PLA Filament",
+    "variant": "Naturel / 1.75mm / 3kg",
+    "available": false,
+    "price": 2328.0,
+    "url": "https://porima3d.com/products/porima-hyper-pla-filament"
+  },
+  "9483573985627_49100850921819": {
+    "product_id": "9483573985627",
+    "variant_id": "49100850921819",
+    "product": "Porima Hyper PLA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 1kg",
+    "available": false,
+    "price": 816.0,
+    "url": "https://porima3d.com/products/porima-hyper-pla-filament"
+  },
+  "9483573985627_49100850987355": {
+    "product_id": "9483573985627",
+    "variant_id": "49100850987355",
+    "product": "Porima Hyper PLA Filament",
+    "variant": "Siyah RAL9005 / 1.75mm / 3kg",
+    "available": false,
+    "price": 2328.0,
+    "url": "https://porima3d.com/products/porima-hyper-pla-filament"
+  }
+}
